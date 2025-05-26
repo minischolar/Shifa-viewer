@@ -1,0 +1,3046 @@
+{
+    "Intro.": {
+    "transliterated": "al-muqaddima",
+    "arabic": "المقدمة"
+  },
+  "m.": {
+    "transliterated": "al-ǧumla al-ūlā al-manṭiq",
+    "arabic": "الجملة الأولى المنطق"
+  },
+  "m.i": {
+    "transliterated": "al-fann al-awwal fī al-madḫal (īsāġūǧī)",
+    "arabic": "الفن الأول في المدخل (إيساغوجي)"
+  },
+  "m.i.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.i.I.1": {
+    "transliterated": "fī al-išāra ilā mā yaštamilu ʿalayhi al-kitāb",
+    "arabic": "في الإشارة إلى ما يشتمل عليه الكتاب"
+  },
+  "m.i.I.2": {
+    "transliterated": "fī al-tanbīh ʿalā al-ʿulūm wa-l-manṭiq",
+    "arabic": "في التنبيه على العلوم والمنطق"
+  },
+  "m.i.I.3": {
+    "transliterated": "fī manfaʿat al-manṭiq",
+    "arabic": "في منفعة المنطق"
+  },
+  "m.i.I.4": {
+    "transliterated": "fī mawḍūʿ al-manṭiq",
+    "arabic": "في موضوع المنطق"
+  },
+  "m.i.I.5": {
+    "transliterated": "fī taʿrīf al-lafẓ al-mufrad wa-l-muʾallaf wa-l-kullī wa-l-ǧuzʾī wa-l-ḏātī wa-l-ʿaraḍī wa-l-laḏī yuqāl fī ǧawāb mā huwa wa-llāḏī lā yuqāl",
+    "arabic": "في تعريف اللفظ المفرد والمؤلف والكلى والجزئى والذاتى والعرضى والذى يقال في جواب ماهو والذي لا يقال"
+  },
+  "m.i.I.6": {
+    "transliterated": "fī taʿqab mā qālahu al-nās fī al-ḏātī wa-l-ʿaraḍī",
+    "arabic": "في تعقب ما قاله الناس في الذاتي والعرضي"
+  },
+  "m.i.I.7": {
+    "transliterated": "fī taʿqab mā qālahu al-nās fī al-dāll ʿalā al-māhīya",
+    "arabic": "في تعقب ما قاله الناس في الدال على الماهية"
+  },
+  "m.i.I.8": {
+    "transliterated": "fī qismat al-lafẓ al-mufrad al-kullī ilā al-aqsām al-ḫamsa",
+    "arabic": "في قسمة اللفظ المفرد الكلى إلى الأقسام الخمسة"
+  },
+  "m.i.I.9": {
+    "transliterated": "fī al-ǧins",
+    "arabic": "في الجنس"
+  },
+  "m.i.I.10": {
+    "transliterated": "fī al-nawʿ wa-waǧh inqisām al-kullī ilayhi",
+    "arabic": "في النوع ووجه انقسام الكلى إليه"
+  },
+  "m.i.I.11": {
+    "transliterated": "fī taʿqab rusūm al-nawʿ",
+    "arabic": "في تعقب رسوم النوع"
+  },
+  "m.i.I.12": {
+    "transliterated": "fī al-ṭabīʿī wa-l-ʿaqlī wa-l-manṭiqī wa-fī al-kaṯra wa-maʿa al-kaṯra",
+    "arabic": "في الطبيعي والعقلى والمنطقى وفي الكثرة ومع الكثرة"
+  },
+  "m.i.I.13": {
+    "transliterated": "fī al-faṣl",
+    "arabic": "في الفصل"
+  },
+  "m.i.I.14": {
+    "transliterated": "fī al-ḫāṣṣa wa-l-ʿaraḍ al-ʿāmm",
+    "arabic": "في الخاصة والعرض العام"
+  },
+  "m.i.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.i.II.1": {
+    "transliterated": "fī al-mušārakāt wa-l-mubāyanāt bayna hāḏihi al-ḫamsa",
+    "arabic": "في المشاركات والمباينات بين هذه الخمسة"
+  },
+  "m.i.II.2": {
+    "transliterated": "fī al-mušāraka wa-l-mubāyana bayna al-ǧins wa-l-nawʿ",
+    "arabic": "في المشاركة والمباينة بين الجنس والنوع"
+  },
+  "m.i.II.3": {
+    "transliterated": "fī al-mušārakāt wa-l-mubāyanāt al-bāqiya",
+    "arabic": "في المشاركات والمباينات الباقية"
+  },
+  "m.i.II.4": {
+    "transliterated": "fī munāsabat baʿḍ hāḏihi al-ḫamsa maʿa baʿḍ",
+    "arabic": "في مناسبة بعض هذه الخمسة مع بعض"
+  },
+  "m.ii": {
+    "transliterated": "al-fann al-ṯānī fī al-maqūlāt",
+    "arabic": "الفن الثاني في المقولات"
+  },
+  "m.ii.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.ii.I.1": {
+    "transliterated": "fī ʿaraḍ al-maqūlāt",
+    "arabic": "في عرض المقولات"
+  },
+  "m.ii.I.2": {
+    "transliterated": "fī al-alfāẓ al-muttafiqa wa-l-mutawāṭiʾa wa-l-mutabāyina wa-l-muštāqqa",
+    "arabic": "في الألفاظ المتفقة والمتواطئة والمتباينة والمشتقة"
+  },
+  "m.ii.I.3": {
+    "transliterated": "fī maʿnā mā yuqāl ʿalā mawḍūʿ wa-lā yuqāl wa-yūǧadu wa-lā yūǧadu",
+    "arabic": "في معنى ما يقال على موضوع ولا يقال ويوجد ولا يوجد"
+  },
+  "m.ii.I.4": {
+    "transliterated": "fī šarḥ ḥadd ḥadd al-ʿaraḍ wa-huwa mawǧūd lā fī mawḍūʿ",
+    "arabic": "في شرح حد حد العرض وهو موجود لا في موضوع"
+  },
+  "m.ii.I.5": {
+    "transliterated": "fī muzāwaǧāt taqaʿ bayna qawl ʿalā wuǧūd fī wa-innahā ilā",
+    "arabic": "في مزاوجات تقع بين قول على وجود في وإنها إلى"
+  },
+  "m.ii.I.6": {
+    "transliterated": "fī ifsād qawl man qāla inna šayʾan wāḥidan yakūnu ʿaraḍan wa-ǧawharan",
+    "arabic": "في إفساد قول من قال إن شيئاً واحداً يكون عرضاً وجوهراً"
+  },
+  "m.ii.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.ii.II.1": {
+    "transliterated": "fī ḥāl munāsabat al-aǧnās wa-fuṣūlihā al-muqassama wa-l-muqawwima",
+    "arabic": "في حال مناسبة الأجناس وفصولها المقسمة والمقومة"
+  },
+  "m.ii.II.2": {
+    "transliterated": "fī anna al-ʿaraḍ laysa bi-ǧins li-l-tisʿa",
+    "arabic": "في أن العرض ليس بجنس للتسعة"
+  },
+  "m.ii.II.3": {
+    "transliterated": "fī taʿqab aqwāl man awǧaba fīhā nuqṣānan aw mudāḫala",
+    "arabic": "في تعقب أقوال من أوجب فيها نقصاناً أو مداخله"
+  },
+  "m.ii.II.4": {
+    "transliterated": "fī ḏikr umūr awhamat annahā immā ʿāmma li-šayʾ min al-ʿašara",
+    "arabic": "في ذكر أمور أوهمت أنها إما عامة لشيء من العشرة"
+  },
+  "m.ii.II.5": {
+    "transliterated": "fī taʿrīf ḥāl ʿadad al-maqūlāt",
+    "arabic": "في تعريف حال عدد المقولات"
+  },
+  "m.ii.III": {
+    "transliterated": "al-maqāla al-ṯālṯa",
+    "arabic": "المقالة الثلثة"
+  },
+  "m.ii.III.1": {
+    "transliterated": "fī al-ǧawāhir al-ūlā wa-l-ṯāniya wa-l-ṯāliṯa",
+    "arabic": "في الجواهر الأولى والثانية والثالثة"
+  },
+  "m.ii.III.2": {
+    "transliterated": "fī al-ǧawhar al-awwal wa-l-ṯānī wa-l-ṯāliṯ",
+    "arabic": "في الجوهر الأول والثانى والثالث"
+  },
+  "m.ii.III.3": {
+    "transliterated": "fī rusūm al-ǧawhar wa-ḫawāṣṣih",
+    "arabic": "في رسوم الجوهر وخواصه"
+  },
+  "m.ii.III.4": {
+    "transliterated": "fī ibtidāʾ al-qawl fī al-kammīya",
+    "arabic": "في ابتداء القول في الكمية"
+  },
+  "m.ii.IV": {
+    "transliterated": "al-maqāla al-rābiʿa",
+    "arabic": "المقالة الرابعة"
+  },
+  "m.ii.IV.1": {
+    "transliterated": "fī bayān al-qisma al-uḫrā li-l-kamm wa-bayān al-kamm bi-l-ʿaraḍ",
+    "arabic": "في بيان القسمة الأخرى للكم وبيان الكم بالعرض"
+  },
+  "m.ii.IV.2": {
+    "transliterated": "fī ḫawāṣṣ al-kamm",
+    "arabic": "في خواص الكم"
+  },
+  "m.ii.IV.3": {
+    "transliterated": "fī ibtidāʾ al-kalām fī al-muḍāf wa-taʿrīf al-ḥadd al-aqdam lahu",
+    "arabic": "في ابتداء الكلام في المضاف وتعريف الحد الأقدم له"
+  },
+  "m.ii.IV.4": {
+    "transliterated": "fī ḫawāṣṣ al-muḍāf",
+    "arabic": "في خواص المضاف"
+  },
+  "m.ii.IV.5": {
+    "transliterated": "fī taḥqīq al-muḍāf al-laḏī huwa al-maqūla",
+    "arabic": "في تحقيق المضاف الذى هو المقولة"
+  },
+  "m.ii.V": {
+    "transliterated": "al-maqāla al-ḫāmisa",
+    "arabic": "المقالة الخامسة"
+  },
+  "m.ii.V.1": {
+    "transliterated": "fī taʿrīf al-kayfīya wa-aqsāmihā al-awwal",
+    "arabic": "في تعريف الكيفية وأقسامها الأول"
+  },
+  "m.ii.V.2": {
+    "transliterated": "fī taʿqab al-wuǧūh allatī qasama qawm bihā al-kayfīya ilā arbaʿa",
+    "arabic": "في تعقب الوجوه التي قسم قوم بها الكيفية إلى أربعة"
+  },
+  "m.ii.V.3": {
+    "transliterated": "fī taʿrīf ḥaqīqat kull nawʿayn min anwāʿ al-kayfīya",
+    "arabic": "في تعريف حقيقة كل نوعين من أنواع الكيفية"
+  },
+  "m.ii.V.4": {
+    "transliterated": "fī īrād al-šukūk fī al-nawʿ al-mansūb ilā quwwa wa-lā quwwa",
+    "arabic": "في إيراد الشكوك في النوع المنسوب إلى قوة ولاقوة"
+  },
+  "m.ii.V.5": {
+    "transliterated": "fī ḥall bāqī al-šukūk",
+    "arabic": "في حل باقي الشكوك"
+  },
+  "m.ii.VI": {
+    "transliterated": "al-maqāla al-sādisa",
+    "arabic": "المقالة السادسة"
+  },
+  "m.ii.VI.1": {
+    "transliterated": "fī ḏikr anwāʿ al-ǧins al-rābiʿ min al-kayfīya",
+    "arabic": "في ذكر أنواع الجنس الرابع من الكيفية"
+  },
+  "m.ii.VI.2": {
+    "transliterated": "fī taʿrīf ḥāl al-zāwiya wa-kayfīya wuqūʿihā fī al-kammīya aw fī al-kayfīya",
+    "arabic": "في تعريف حال الزاوية وكيفية وقوعها في الكمية أو في الكيفية"
+  },
+  "m.ii.VI.3": {
+    "transliterated": "fī taʿrīf al-farq bayna al-kayfīya wa-ḏī al-kayfīya",
+    "arabic": "في تعريف الفرق بين الكيفية وذى الكيفية"
+  },
+  "m.ii.VI.4": {
+    "transliterated": "fī ḥall šakk mutaʿalliq bi-mudāḫalat anwāʿ min al-kayf wa-ġayrih",
+    "arabic": "في حل شك متعلق بمداخلة أنواع من الكيف وغيره"
+  },
+  "m.ii.VI.5": {
+    "transliterated": "fī ayna wa-fī matā",
+    "arabic": "في الأين وفي متى"
+  },
+  "m.ii.VI.6": {
+    "transliterated": "fī bāqī al-maqūlāt al-ʿašr",
+    "arabic": "في باقى المقولات العشر"
+  },
+  "m.ii.VII": {
+    "transliterated": "al-maqāla al-sābiʿa",
+    "arabic": "المقالة السابعة"
+  },
+  "m.ii.VII.1": {
+    "transliterated": "fī al-mutaqābilāt",
+    "arabic": "في المتقابلات"
+  },
+  "m.ii.VII.2": {
+    "transliterated": "fī šukūk talḥaqu mā qīla min al-taqābul",
+    "arabic": "في شكوك تلحق ما قيل من التقابل"
+  },
+  "m.ii.VII.3": {
+    "transliterated": "fī al-taʿbīr anna aḥkām wa-ḫawāṣṣ man fī al-mutaqaddim wa-l-mutaʾaḫḫar",
+    "arabic": "في التعبير أن أحكام وخواص من في المتقدم والمتأخر"
+  },
+  "m.ii.VII.4": {
+    "transliterated": "fī al-mutaḍāddāt",
+    "arabic": "في المتضادات"
+  },
+  "m.iii": {
+    "transliterated": "al-fann al-ṯāliṯ fī al-ʿibāra",
+    "arabic": "الفن الثالث في العبارة"
+  },
+  "m.iii.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.iii.I.1": {
+    "transliterated": "fī maʿrifat al-tanāsub bayna al-umūr wa-l-taṣawwurāt wa-l-alfāẓ",
+    "arabic": "في معرفة التناسب بين الأمور والتصورات والألفاظ"
+  },
+  "m.iii.I.2": {
+    "transliterated": "fī taḥqīq al-ism",
+    "arabic": "في تحقيق الاسم"
+  },
+  "m.iii.I.3": {
+    "transliterated": "fī al-kalima",
+    "arabic": "في الكلمة"
+  },
+  "m.iii.I.4": {
+    "transliterated": "fī taʿrīf ḥāl al-maṣdar",
+    "arabic": "في تعريف حال المصدر"
+  },
+  "m.iii.I.5": {
+    "transliterated": "fī al-qawl wa-tamyīz al-ḫabar mimmā laysa bi-ḫayr",
+    "arabic": "في القول وتمييز الخبر مما ليس بخير"
+  },
+  "m.iii.I.6": {
+    "transliterated": "fī taʿrīf al-qawl al-ǧāzim al-basīṭ al-awwal",
+    "arabic": "في تعريف القول الجازم البسيط الأول"
+  },
+  "m.iii.I.7": {
+    "transliterated": "fī taʿrīf aṣnāf al-qadāyā al-maḥṣūra wa-l-muhmala",
+    "arabic": "في تعريف أصناف القضايا المحصورة والمهملة"
+  },
+  "m.iii.I.8": {
+    "transliterated": "fī al-munḥarifāt",
+    "arabic": "في المنحرفات"
+  },
+  "m.iii.I.9": {
+    "transliterated": "fī immā iḏā kāna al-mawḍūʿ masūran",
+    "arabic": "في إما إذا كان الموضوع مسوراً"
+  },
+  "m.iii.I.10": {
+    "transliterated": "fī taḥqīq ḥāl al-tanāquḍ",
+    "arabic": "في تحقيق حال التناقص"
+  },
+  "m.iii.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.iii.II.1": {
+    "transliterated": "fī al-qaḍīya al-ṯināʾīya wa-l-ṯulāṯīya wa-l-maʿdūla ilāḫ",
+    "arabic": "في القضية الثنائية والثلاثية والمعدولة إلخ"
+  },
+  "m.iii.II.2": {
+    "transliterated": "fī iʿtibār hāḏihi al-munāsabāt bayna al-munāqiḍāt al-maḥṣūra",
+    "arabic": "في اعتبار هذه المناسبات بين المناقضات المحصورة"
+  },
+  "m.iii.II.3": {
+    "transliterated": "fī taʿrīf al-ḥāl fī al-qadāyā al-mutakāṯira",
+    "arabic": "في تعريف الحال في القضايا المتكثرة"
+  },
+  "m.iii.II.4": {
+    "transliterated": "fī al-qadāyā al-munawwiʿa wa-hiya al-rābiʿīya",
+    "arabic": "في القضايا المنوعة وهى الرباعية"
+  },
+  "m.iii.II.5": {
+    "transliterated": "fī bayān al-taqābul bayna al-mūǧiba wa-l-sāliba",
+    "arabic": "في بيان التقابل بين الموجبة والسالبة"
+  },
+  "m.iv": {
+    "transliterated": "al-fann al-rābiʿ fī al-qiyās",
+    "arabic": "الفن الرابع في القياس"
+  },
+  "m.iv.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.iv.I.1": {
+    "transliterated": "fī ṣūrat al-qiyās al-muṭlaq",
+    "arabic": "في صورة القياس المطلق"
+  },
+  "m.iv.I.2": {
+    "transliterated": "fī anna al-manṭiq āla fī al-ʿulūm",
+    "arabic": "في أن المنطق آلة في العلوم"
+  },
+  "m.iv.I.3": {
+    "transliterated": "fī al-muqaddimāt wa-aǧzāʾihā al-ḥukmīya",
+    "arabic": "في المقدمات وأجزائها الحكمية"
+  },
+  "m.iv.I.4": {
+    "transliterated": "fī al-ǧihāt aʿnī al-iṭlāq wa-l-ḍarūra wa-l-imkān wa-l-imtināʿ",
+    "arabic": "في الجهات أعنى الإطلاق والضرورة والإمكان والامتناع"
+  },
+  "m.iv.I.5": {
+    "transliterated": "fī al-tanāquḍ",
+    "arabic": "في التناقض"
+  },
+  "m.iv.I.6": {
+    "transliterated": "fī ḥadd al-qiyās al-muṭlaq al-ʿāmm",
+    "arabic": "في حد القياس المطلق العام"
+  },
+  "m.iv.I.7": {
+    "transliterated": "fī šukūk taʿriḍ fī ḥadd al-qiyās",
+    "arabic": "في شكوك تعرض في حد القياس"
+  },
+  "m.iv.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.iv.II.1": {
+    "transliterated": "fī ʿaks al-muqaddimāt ʿalā al-iṭlāq",
+    "arabic": "في عكس المقدمات على الإطلاق"
+  },
+  "m.iv.II.2": {
+    "transliterated": "fī ʿaks al-muṭlaqāt",
+    "arabic": "في عكس المطلقات"
+  },
+  "m.iv.II.3": {
+    "transliterated": "fī ʿaks al-ḍarūrīyāt wa-l-mumkināt",
+    "arabic": "في عكس الضروريات والممكنات"
+  },
+  "m.iv.II.4": {
+    "transliterated": "fī al-qiyāsāt al-iqtirānīya",
+    "arabic": "في القياسات الاقترانية"
+  },
+  "m.iv.III": {
+    "transliterated": "al-maqāla al-ṯāliṯa",
+    "arabic": "المقالة الثالثة"
+  },
+  "m.iv.III.1": {
+    "transliterated": "fī al-qiyāsāt al-muḫtalifa",
+    "arabic": "في القياسات المختلفة"
+  },
+  "m.iv.III.2": {
+    "transliterated": "fī taʿqīb al-naẓar fī al-ḥuǧaǧ",
+    "arabic": "في تعقيب النظر في الحجج"
+  },
+  "m.iv.III.3": {
+    "transliterated": "fī bāqī al-iḫtilāṭ minhumā",
+    "arabic": "في باقى الاختلاط منهما"
+  },
+  "m.iv.III.4": {
+    "transliterated": "fī al-mumkin wa-taʿrīfih",
+    "arabic": "في الممكن وتعريفه"
+  },
+  "m.iv.III.5": {
+    "transliterated": "fī iʿādat al-naẓar wa-rasm al-mumkin",
+    "arabic": "في إعادة النظر ورسم الممكن"
+  },
+  "m.iv.IV": {
+    "transliterated": "al-maqāla al-rābiʿa",
+    "arabic": "المقالة الرابعة"
+  },
+  "m.iv.IV.1": {
+    "transliterated": "fī al-qiyāsāt al-mumkina al-šakl al-awwal",
+    "arabic": "في القياسات الممكنة الشكل الأول"
+  },
+  "m.iv.IV.2": {
+    "transliterated": "fī al-qiyāsāt al-muḫtalṭa min al-imkān wa-l-iṭlāq",
+    "arabic": "في القياسات المختلطة من الإمكان والإطلاق"
+  },
+  "m.iv.IV.3": {
+    "transliterated": "fī al-qiyāsāt al-muḫtalṭa min al-imkān wa-l-ḍarūra",
+    "arabic": "في القياسات المختلطة من الإمكان والضرورة"
+  },
+  "m.iv.IV.4": {
+    "transliterated": "fī al-qiyāsāt al-mumkina fī al-šakl al-ṯānī",
+    "arabic": "في القياسات الممكنة في الشكل الثاني"
+  },
+  "m.iv.IV.5": {
+    "transliterated": "fī al-qiyāsāt al-muḫtalṭa min al-imkān wa-l-ḍarūra",
+    "arabic": "في القياسات المختلطة من الإمكان والضرورة"
+  },
+  "m.iv.IV.6": {
+    "transliterated": "fī aṣnāf al-qiyāsāt al-mumkina al-basīṭa wa-l-muḫtalṭa min al-šakl al-ṯāliṯ",
+    "arabic": "في أصناف القياسات الممكنة البسيطة والمختلطة من الشكل الثالث"
+  },
+  "m.iv.V": {
+    "transliterated": "al-maqāla al-ḫāmisa",
+    "arabic": "المقالة الخامسة"
+  },
+  "m.iv.V.1": {
+    "transliterated": "fī al-qiyāsāt al-šarṭīya wa-aṣnāfihā",
+    "arabic": "في القياسات الشرطية وأصنافها"
+  },
+  "m.iv.V.2": {
+    "transliterated": "fī al-šarṭīyāt al-munfaṣila",
+    "arabic": "في الشرطيات المنفصلة"
+  },
+  "m.iv.V.3": {
+    "transliterated": "fī taʿrīf aṣnāf taʾlīfāt al-šarṭīya al-basīṭa wa-l-murakkaba",
+    "arabic": "في تعريف أصناف تأليفات الشرطية البسيطة والمركبة"
+  },
+  "m.iv.V.4": {
+    "transliterated": "fī šarḥ maʿānī al-kullīya wa-l-ǧuzʾīya wa-l-muhmala wa-l-šakhṣīya",
+    "arabic": "في شرح معانى الكلية والجزئية والمهملة والشخصية"
+  },
+  "m.iv.V.5": {
+    "transliterated": "fī maʿnā al-kullīya al-sāliba fī al-šarṭīyāt",
+    "arabic": "في معنى الكلية السالبة في الشرطيات"
+  },
+  "m.iv.VI": {
+    "transliterated": "al-maqāla al-sādisa",
+    "arabic": "المقالة السادسة"
+  },
+  "m.iv.VI.1": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min al-šarṭīya al-muttaṣila",
+    "arabic": "في القياسات المؤلفة من الشرطية المتصلة"
+  },
+  "m.iv.VI.2": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min al-muttaṣilāt wa-l-munfaṣilāt",
+    "arabic": "في القياسات المؤلفة من المتصلات والمنفصلات"
+  },
+  "m.iv.VI.3": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min al-munfaṣilāt",
+    "arabic": "في القياسات المؤلفة من المنفصلات"
+  },
+  "m.iv.VI.4": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min al-ḥamlīya wa-l-šarṭīya min al-šakl al-awwal",
+    "arabic": "في القياسات المؤلفة من الحملية والشرطية من الشكل الأول"
+  },
+  "m.iv.VI.5": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min al-ḥamlīya wa-l-šarṭīya fī al-aškāl al-ṯalāṯa",
+    "arabic": "في القياسات المؤلفة من الحملية والشرطية في الأشكال الثلاثة"
+  },
+  "m.iv.VI.6": {
+    "transliterated": "fī al-qiyāsāt al-munqasima ʿalā namat al-aškāl al-ṯalāṯa",
+    "arabic": "في القياسات المنقسمة على نمط الأشكال الثلاثة"
+  },
+  "m.iv.VII": {
+    "transliterated": "al-maqāla al-sābiʿa",
+    "arabic": "المقالة السابعة"
+  },
+  "m.iv.VII.1": {
+    "transliterated": "fī talāzum al-muqaddimāt al-muttaṣila al-šarṭīya wa-taqābulihā",
+    "arabic": "في تلازم المقدمات المتصلة الشرطية وتقابلها"
+  },
+  "m.iv.VII.2": {
+    "transliterated": "fī al-muqaddimāt al-šarṭīya al-munfaṣila",
+    "arabic": "في المقدمات الشرطية المنفصلة"
+  },
+  "m.iv.VII.3": {
+    "transliterated": "fī ʿaks al-muqaddima al-muttaṣila",
+    "arabic": "في عكس المقدمة المتصلة"
+  },
+  "m.iv.VIII": {
+    "transliterated": "al-maqāla al-ṯāmina",
+    "arabic": "المقالة الثامنة"
+  },
+  "m.iv.VIII.1": {
+    "transliterated": "fī taʿrīf al-qiyās al-istitnāʾī",
+    "arabic": "في تعريف القياس الاستثنائى"
+  },
+  "m.iv.VIII.2": {
+    "transliterated": "fī taʿdīd aṣnāf al-qiyāsāt al-istitnāʾīya",
+    "arabic": "في تعديد أصناف القياسات الاستثنائية"
+  },
+  "m.iv.VIII.3": {
+    "transliterated": "fī qiyās al-ḫalf",
+    "arabic": "في قياس الخلف"
+  },
+  "m.iv.IX": {
+    "transliterated": "al-maqāla al-tāsiʿa",
+    "arabic": "المقالة التاسعة"
+  },
+  "m.iv.IX.1": {
+    "transliterated": "fī taʿrīf anna al-qiyāsāt al-istitnāʾīya innamā tatimmum ilāḫ",
+    "arabic": "في تعريف أن القياسات الاستثنائية إنما تتم ألخ"
+  },
+  "m.iv.IX.2": {
+    "transliterated": "fī taʿrīf annahu lā tatimm al-qiyās illā bi-taḍamunihi maʿnā al-kullīya wa-l-īǧāb",
+    "arabic": "في تعريف أنه لا يتم القياس إلا بتضمنه معنى الكلية والإيجاب"
+  },
+  "m.iv.IX.3": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min akṯar min muqaddimatayn",
+    "arabic": "في القياسات المؤلفة من أكثر من مقدمتين"
+  },
+  "m.iv.IX.4": {
+    "transliterated": "fī iktisāb al-muqaddimāt wa-taḥṣīl al-qiyāsāt",
+    "arabic": "في اكتساب المقدمات وتحصيل القياسات"
+  },
+  "m.iv.IX.5": {
+    "transliterated": "fī bayān ġalaṭ man ẓanna anna al-qisma qiyās",
+    "arabic": "في بيان غلط من ظن أن القسمة قياس"
+  },
+  "m.iv.IX.6": {
+    "transliterated": "fī taḥlīl al-qiyāsāt wa-ḏikr waṣāyā wa-taḥḏīrāt",
+    "arabic": "في تحليل القياسات وذكر وصايا وتحذيرات"
+  },
+  "m.iv.IX.7": {
+    "transliterated": "fī ḏikr taʾlīfāt qiyāsīya yaʿsuru taḥlīluhā",
+    "arabic": "في ذكر تأليفات قياسية يعسر تحليلها"
+  },
+  "m.iv.IX.8": {
+    "transliterated": "fī taʿrīf wuǧūh uḫar min al-iʿtibārāt al-maʾḫūḏa min ...",
+    "arabic": "في تعريف وجوه أخر من الاعتبارات المأخوذة من ..."
+  },
+  "m.iv.IX.9": {
+    "transliterated": "fī ḏikr aḥwāl māniʿa min al-taḥlīl",
+    "arabic": "في ذكر أحوال مانعة من التحليل"
+  },
+  "m.iv.IX.10": {
+    "transliterated": "fī istiqrāʾ al-natāʾiǧ al-tābiʿa li-l-maṭlūb",
+    "arabic": "في استقراء النتائج التابعة للمطلوب"
+  },
+  "m.iv.IX.11": {
+    "transliterated": "fī anna al-muqaddimāt al-ṣādiqa yalzamuhā al-natīǧa",
+    "arabic": "في أن المقدمات الصادقة يلزمها النتيجة"
+  },
+  "m.iv.IX.12": {
+    "transliterated": "fī qiyās al-dawr",
+    "arabic": "في قياس الدور"
+  },
+  "m.iv.IX.13": {
+    "transliterated": "fī ʿaks al-qiyās",
+    "arabic": "في عكس القياس"
+  },
+  "m.iv.IX.14": {
+    "transliterated": "fī radd qiyās al-ḫalf ilā al-mustaqīm",
+    "arabic": "في رد قياس الخلف إلى المستقيم"
+  },
+  "m.iv.IX.15": {
+    "transliterated": "fī al-qiyāsāt al-muʾallafa min muqaddimāt mutaqābila",
+    "arabic": "في القياسات المؤلفة من مقدمات متقابلة"
+  },
+  "m.iv.IX.16": {
+    "transliterated": "fī al-muṣādara ʿalā al-maṭlūb",
+    "arabic": "في المصادرة على المطلوب"
+  },
+  "m.iv.IX.17": {
+    "transliterated": "fī waḍʿ mā laysa sababan li-l-natīǧa ʿalā annahu sabab",
+    "arabic": "في وضع ما ليس سبباً للنتيجة على أنه سبب"
+  },
+  "m.iv.IX.18": {
+    "transliterated": "fī waṣāyā wa-taḥḏīrāt yuntafaʿ bihā al-sāʾil",
+    "arabic": "في وصايا وتحذيرات ينتفع بها السائل"
+  },
+  "m.iv.IX.19": {
+    "transliterated": "fī annahu kayfa yumkin an yuʿlam al-šayʾ wa-yuǧhal maʿan",
+    "arabic": "في أنه كيف يمكن أن يعلم الشيء ويجهل معاً"
+  },
+  "m.iv.IX.20": {
+    "transliterated": "faṣl fī ʿaks al-natāʾiǧ",
+    "arabic": "فصل في عكس النتائج"
+  },
+  "m.iv.IX.21": {
+    "transliterated": "fī al-qiyāsāt al-fiqhīya al-taʿqulīya",
+    "arabic": "في القياسات الفقهية التعقلية"
+  },
+  "m.iv.IX.22": {
+    "transliterated": "fī al-istiqrāʾ",
+    "arabic": "في الاستقراء"
+  },
+  "m.iv.IX.23": {
+    "transliterated": "fī al-tamṯīl",
+    "arabic": "في التمثيل"
+  },
+  "m.iv.IX.24": {
+    "transliterated": "fī al-dalīl wa-l-ʿalāma wa-l-firāsa",
+    "arabic": "في الدليل والعلامة والفراسة"
+  },
+  "m.v": {
+    "transliterated": "al-fann al-ḫāmis fī al-burhān",
+    "arabic": "الفن الخامس في البرهان"
+  },
+  "m.v.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.v.I.1": {
+    "transliterated": "fī al-dalāla ʿalā al-ġaraḍ min hāḏā al-fann",
+    "arabic": "في الدلالة على الغرض من هذا الفن"
+  },
+  "m.v.I.2": {
+    "transliterated": "fī martabat kitāb al-burhān",
+    "arabic": "في مرتبة كتاب البرهان"
+  },
+  "m.v.I.3": {
+    "transliterated": "fī anna kull taʿlīm wa-taʿallum ḏihnī fa-bi-ʿilm qad sabaq",
+    "arabic": "في أن كل تعليم وتعلم ذهنى فبعلم قد سبق"
+  },
+  "m.v.I.4": {
+    "transliterated": "fī taʿdīl mabādiʾ al-qiyāsāt",
+    "arabic": "في تعديل مبادى القياسات"
+  },
+  "m.v.I.5": {
+    "transliterated": "fī al-maṭālib wa-mā yattaṣil bihā",
+    "arabic": "في المطالب وما يتصل بها"
+  },
+  "m.v.I.6": {
+    "transliterated": "fī kayfīya iṣābat al-maǧhūlāt min al-maʿlūmāt",
+    "arabic": "في كيفية إصابة المجهولات من المعلومات"
+  },
+  "m.v.I.7": {
+    "transliterated": "fī al-burhān al-muṭāq wa-fī qismayhi",
+    "arabic": "في البرهان المطاق وفي قسميه"
+  },
+  "m.v.I.8": {
+    "transliterated": "fī anna al-ʿilm al-šayʾ bi-kull mā lahu sabab min ǧihat sababih",
+    "arabic": "في أن العلم الشيء بكل ما له سبب من جهة سببه"
+  },
+  "m.v.I.9": {
+    "transliterated": "fī kayfīya taʿarruf mā laysa al-maḥmūluh",
+    "arabic": "في كيفية تعرف ما ليس المحموله"
+  },
+  "m.v.I.10": {
+    "transliterated": "fī bayān kayfīya kawn al-aḫaṣṣ ʿillatan li-intāǧ al-aʿamm",
+    "arabic": "في بيان كيفية كون الأخص علة لإنتاج الأعم"
+  },
+  "m.v.I.11": {
+    "transliterated": "fī iʿtibār muqaddimāt al-burhān min ǧihat taqaddumihā",
+    "arabic": "في اعتبار مقدمات البرهان من جهة تقدمها"
+  },
+  "m.v.I.12": {
+    "transliterated": "fī mabdaʾ al-burhān",
+    "arabic": "في مبدإ البرهان"
+  },
+  "m.v.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.v.II.1": {
+    "transliterated": "fī maʿrūfīyat mabādiʾ al-burhān wa-kullīyatihā",
+    "arabic": "في معروفية مبادئ البرهان وكليتها"
+  },
+  "m.v.II.2": {
+    "transliterated": "fī al-maḥūllāt al-ḏātīya allatī tuštaraṭ bih fī al-burhān",
+    "arabic": "في المحولات الذاتية التى تشترط به في البرهان"
+  },
+  "m.v.II.3": {
+    "transliterated": "fī kawn al-muqaddimāt al-burhānīya",
+    "arabic": "في كون المقدمات البرهانية"
+  },
+  "m.v.II.4": {
+    "transliterated": "qīla fī al-taʿallum al-awwal innā rubba-mā aʿṭaynā",
+    "arabic": "قيل في التعلم الأول إنا ربما أعطينا"
+  },
+  "m.v.II.5": {
+    "transliterated": "fī taḥqīq ḍarūrīyat muqaddimāt al-barāhīn",
+    "arabic": "في تحقيق ضرورية مقدمات البراهين"
+  },
+  "m.v.II.6": {
+    "transliterated": "fī mawḍūʿāt al-ʿulūm wa-mabādiʾihā",
+    "arabic": "في موضوعات العلوم ومبادئها"
+  },
+  "m.v.II.7": {
+    "transliterated": "fī iḫtilāf al-ʿulūm wa-ištirākihā",
+    "arabic": "في اختلاف العلوم واشتراكها"
+  },
+  "m.v.II.8": {
+    "transliterated": "fī naql al-burhān min ʿilm ilā ʿilm",
+    "arabic": "في نقل البرهان من علم إلى علم"
+  },
+  "m.v.II.9": {
+    "transliterated": "fī taḥqīq munāsabat al-muqaddimāt",
+    "arabic": "في تحقيق مناسبة المقدمات"
+  },
+  "m.v.II.10": {
+    "transliterated": "min al-bayy annahu lā sabīl ilā iqāmat al-barāhīn",
+    "arabic": "من البين أنه لا سبيل إلى إقامة البراهين"
+  },
+  "m.v.III": {
+    "transliterated": "al-maqāla al-ṯāliṯa",
+    "arabic": "المقالة الثالثة"
+  },
+  "m.v.III.1": {
+    "transliterated": "fī al-mabādiʾ wa-l-masāʾil al-munāsiba wa-ġayr al-munāsiba",
+    "arabic": "في المبادئ والمسائل المناسبة وغير المناسبة"
+  },
+  "m.v.III.2": {
+    "transliterated": "fī iḫtilāf al-ʿulūm al-riyāḍīya wa-ġayr al-riyāḍīya al-ǧadal",
+    "arabic": "في اختلاف العلوم الرياضية وغير الرياضية الجدل"
+  },
+  "m.v.III.3": {
+    "transliterated": "fī al-qawl ʿalā burhān limā wa-annā wa-mušārikatihimā",
+    "arabic": "في القول على برهان لم وان ومشاركتهما"
+  },
+  "m.v.III.4": {
+    "transliterated": "fī faḍīlat baʿḍ al-aškāl ʿalā baʿḍ",
+    "arabic": "في فضيلة بعض الأشكال على بعض"
+  },
+  "m.v.III.5": {
+    "transliterated": "fī ḏikr kayfīya intifāʿ al-nafs bi-l-ḥiss fī al-maʿqūlāt",
+    "arabic": "في ذكر كيفية انتفاع النفس بالحس في المعقولات"
+  },
+  "m.v.III.6": {
+    "transliterated": "fī ḥikāyat mā qīla fī al-taʿlīm al-awwal min tanāhī aǧzāʾ al-qiyāsāt",
+    "arabic": "في حكاية ما قيل في التعليم الأول من تناهى أجزاء القياسات"
+  },
+  "m.v.III.7": {
+    "transliterated": "fī al-burhān al-kullī wa-l-mūǧib",
+    "arabic": "في البرهان الكلى والموجب"
+  },
+  "m.v.III.8": {
+    "transliterated": "fī muʿāwadat ḏikr iḫtilāf al-ʿulūm wa-ittifāqihā",
+    "arabic": "في معاودة ذكر اختلاف العلوم واتفاقها"
+  },
+  "m.v.III.9": {
+    "transliterated": "fī ḥāl al-ʿilm wa-l-ẓann wa-tašākuhumā wa-tabāyunihā",
+    "arabic": "في حال العلم والظن وتشاركهما وتباينهما"
+  },
+  "m.v.IV": {
+    "transliterated": "al-maqāla al-rābiʿa",
+    "arabic": "المقالة الرابعة"
+  },
+  "m.v.IV.1": {
+    "transliterated": "al-maṭālib wa-l-maʿlūmāt bi-l-ṭalab mutasāwiya",
+    "arabic": "المطالب والمعلومات بالطلب متساوية"
+  },
+  "m.v.IV.2": {
+    "transliterated": "fī anna al-ḥadd lā yuktasabu bi-burhān wa-lā qisma",
+    "arabic": "في أن الحد لا يكتسب ببرهان ولا قسمة"
+  },
+  "m.v.IV.3": {
+    "transliterated": "fī anna al-ḥadd lā yuqtanaṣ ayyḍan bi-l-qisma wa-l-istiqrāʾ",
+    "arabic": "في أن الحد لا يقتنص أيضاً بالقسمة والاستقراء"
+  },
+  "m.v.IV.4": {
+    "transliterated": "fī mušārakat al-ḥadd wa-iǧrāʾ baʿḍ al-barāhīn",
+    "arabic": "في مشاركة الحد وإجراء بعض البراهين"
+  },
+  "m.v.IV.5": {
+    "transliterated": "fī tafṣīl duḫūl aṣnāf al-ʿilal fī al-ḥudūd",
+    "arabic": "في تفصيل دخول أصناف العلل في الحدود"
+  },
+  "m.v.IV.6": {
+    "transliterated": "fī al-išāra ilā anna iktisāb al-ḥadd huwa bi-ṭarīq al-tarkīb",
+    "arabic": "في الإشارة إلى أن اكتساب الحد هو بطريق التركيب"
+  },
+  "m.v.IV.7": {
+    "transliterated": "fī anna ṭarīq al-qisma nāqiṣa ayyḍan fī al-taḥdīd",
+    "arabic": "في أن طريق القسمة ناقصة أيضاً في التحديد"
+  },
+  "m.v.IV.8": {
+    "transliterated": "fī al-intifāʿ bi-qismat al-kull ilā al-aǧzāʾ",
+    "arabic": "في الانتفاع بقسمة الكل إلى الأجزاء"
+  },
+  "m.v.IV.9": {
+    "transliterated": "fī taḥqīq mā awradahu al-muʿallim al-awwal fī maʿnā tawassuṭ al-ʿilal",
+    "arabic": "في تحقيق ما أورده المعلم الأول في معنى توسيط العلل"
+  },
+  "m.v.IV.10": {
+    "transliterated": "fī ḫātimat al-kalām fī al-burhān",
+    "arabic": "في خاتمة الكلام في البرهان"
+  },
+  "m.vi": {
+    "transliterated": "al-fann al-sādis fī al-ǧadal",
+    "arabic": "الفن السادس في الجدول"
+  },
+  "m.vi.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.vi.I.1": {
+    "transliterated": "fī maʿrifat al-qiyās al-ǧadalī wa-manfaʿatih",
+    "arabic": "في معرفة القياس الجدلى ومنفعته"
+  },
+  "m.vi.I.2": {
+    "transliterated": "fī al-sabab alladī yusammā lahu hāḏā al-ḍarb min al-maqāyīs ǧadalīya",
+    "arabic": "في السبب الذي يسمى له هذا الضرب من المقاييس جدلية"
+  },
+  "m.vi.I.3": {
+    "transliterated": "fī al-ǧadal wa-tanāwulih li-l-sāʾil wa-l-muǧīb",
+    "arabic": "في الجدل وتناوله للسائل والمجيب"
+  },
+  "m.vi.I.4": {
+    "transliterated": "fī ibānat mā ġalaṭa fīhi qawm min amr al-qiyās al-ǧadalī",
+    "arabic": "في إبانة ما غلط فيه قوم من أمر القياس الجدلى"
+  },
+  "m.vi.I.5": {
+    "transliterated": "fī al-tafrīq bayna al-qiyāsāt al-ǧadalīya",
+    "arabic": "في التفريق بين القياسات الجدلية"
+  },
+  "m.vi.I.6": {
+    "transliterated": "fī al-aǧzāʾ al-ūlā li-l-maqāyīs al-ǧadalīya",
+    "arabic": "في الأجزاء الأولى للمقاييس الجدلية"
+  },
+  "m.vi.I.7": {
+    "transliterated": "fī kayfīya al-intifāʿ bi-l-mawāḍiʿ al-muʿadda naḥw hāḏihi al-umūr",
+    "arabic": "في كيفية الانتفاع بالمواضع المعدة نحو هذه الأمور"
+  },
+  "m.vi.I.8": {
+    "transliterated": "fī tafṣīl al-muqaddimāt al-mašhūra al-ǧadalīya",
+    "arabic": "في تفصيل المقدمات المشهورة الجدلية"
+  },
+  "m.vi.I.9": {
+    "transliterated": "fī al-ālāt allatī tatammu bihā malakat al-ǧadal",
+    "arabic": "في الآلات التي تتم بها ملكة الجدل"
+  },
+  "m.vi.I.10": {
+    "transliterated": "fī manāfiʿ hāḏihi al-ālāt",
+    "arabic": "في منافع هذه الآلات"
+  },
+  "m.vi.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.vi.II.1": {
+    "transliterated": "fī mawāḍiʿ al-iṯbāt wa-l-ibṭāl al-maʾḫūḏa min ǧawhar al-waḍʿ",
+    "arabic": "في مواضع الإثبات والإبطال المأخوذة من جوهر الوضع"
+  },
+  "m.vi.II.2": {
+    "transliterated": "fī miṯl ḏālika",
+    "arabic": "في مثل ذلك"
+  },
+  "m.vi.II.3": {
+    "transliterated": "fī mawāḍiʿ al-iṯbāt wa-l-ibṭāl al-maʾḫūḏa min umūr ḫāriǧa",
+    "arabic": "في مواضع الإثبات والإبطال المأخوذة من أمور خارجة"
+  },
+  "m.vi.II.4": {
+    "transliterated": "fī miṯl ḏālika",
+    "arabic": "في مثل ذلك"
+  },
+  "m.vi.II.5": {
+    "transliterated": "fī al-afḍal wa-l-ašraf",
+    "arabic": "في الأفضل والأشرف"
+  },
+  "m.vi.II.6": {
+    "transliterated": "fī al-umūr al-ẓāhira al-tafāwut",
+    "arabic": "في الأمور الظاهرة التفاوت"
+  },
+  "m.vi.III": {
+    "transliterated": "al-maqāla al-ṯāliṯa",
+    "arabic": "المقالة الثالثة"
+  },
+  "m.vi.III.1": {
+    "transliterated": "fī al-mawāḍiʿ al-ǧinsīya",
+    "arabic": "في المواضع الجنسية"
+  },
+  "m.vi.III.2": {
+    "transliterated": "fī miṯl ḏālika",
+    "arabic": "في مثل ذلك"
+  },
+  "m.vi.IV": {
+    "transliterated": "al-maqāla al-rābiʿa",
+    "arabic": "المقالة الرابعة"
+  },
+  "m.vi.IV.1": {
+    "transliterated": "fī mawāḍiʿ anna al-ḫāṣṣa wuǧidat aw lam tuǧad",
+    "arabic": "في مواضع أن الخاصة أوجدت أو لم تجد"
+  },
+  "m.vi.IV.2": {
+    "transliterated": "yaštamilu ʿalā mawāḍiʿ fī anna al-ḫāṣṣa uʿṭiyat aw lam tuʿṭa",
+    "arabic": "يشتمل على مواضع في أن الخاصة أعطيت أو لم تعط"
+  },
+  "m.vi.IV.3": {
+    "transliterated": "fī istiʿmāl al-mawāḍiʿ al-muštaraka fī al-ḫāṣṣa",
+    "arabic": "في استعمال المواضع المشتركة في الخاصة"
+  },
+  "m.vi.V": {
+    "transliterated": "al-maqāla al-ḫāmisa",
+    "arabic": "المقالة الخامسة"
+  },
+  "m.vi.V.1": {
+    "transliterated": "fī al-šurūṭ al-awwal li-l-taḥdīd",
+    "arabic": "في الشروط الأول للتحديد"
+  },
+  "m.vi.V.2": {
+    "transliterated": "fī mawāḍiʿ iṯbāt al-ḥadd wa-ibṭālih al-ḫāṣṣa",
+    "arabic": "في مواضع إثبات الحد وإبطاله الخاصة"
+  },
+  "m.vi.V.3": {
+    "transliterated": "fī mawāḍiʿ miṯl allatī marrat",
+    "arabic": "في مواضع مثل التي مرت"
+  },
+  "m.vi.V.4": {
+    "transliterated": "fī miṯl ḏālika",
+    "arabic": "في مثل ذلك"
+  },
+  "m.vi.V.5": {
+    "transliterated": "fī miṯl ḏālika",
+    "arabic": "في مثل ذلك"
+  },
+  "m.vi.VI": {
+    "transliterated": "al-maqāla al-sādisa",
+    "arabic": "المقالة السادسة"
+  },
+  "m.vi.VI.1": {
+    "transliterated": "fī mawāḍiʿ huwa huwa wa-l-wāḥid wa-l-ġayr",
+    "arabic": "في مواضع هو هو والواحد والغير"
+  },
+  "m.vi.VII": {
+    "transliterated": "al-maqāla al-sābiʿa",
+    "arabic": "المقالة السابعة"
+  },
+  "m.vi.VII.1": {
+    "transliterated": "fī waṣāyā al-sāʾil wa-akṯaruhā fī al-muqaddimāt",
+    "arabic": "في وصايا السائل وأكثرها في المقدمات"
+  },
+  "m.vi.VII.2": {
+    "transliterated": "fī waṣāyā al-sāʾil wa-akṯaruhā fī aḥwāl al-qiyās",
+    "arabic": "في وصايا السائل وأكثرها في أحوال القياس"
+  },
+  "m.vi.VII.3": {
+    "transliterated": "fī waṣāyā al-muǧīb",
+    "arabic": "في وصايا المجيب"
+  },
+  "m.vi.VII.4": {
+    "transliterated": "fī al-waṣāyā al-muštaraka",
+    "arabic": "في الوصايا المشتركة"
+  },
+  "m.vii": {
+    "transliterated": "al-fann al-sābiʿ fī al-safsaṭa",
+    "arabic": "الفن السابع في السفسطة"
+  },
+  "m.vii.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.vii.I.1": {
+    "transliterated": "fī al-tabkīt al-muġāliṭī",
+    "arabic": "في التبكيت المغالطى"
+  },
+  "m.vii.I.2": {
+    "transliterated": "al-muġālaṭāt allatī taqaʿ bi-ḥasab al-maʿnā",
+    "arabic": "المغالطات التي تقع بحسب المعنى"
+  },
+  "m.vii.I.3": {
+    "transliterated": "wa-qad yumkin an turadda ǧamīʿ hāḏihi al-wuǧūh al-lafẓīya",
+    "arabic": "وقد يمكن أن ترد جميع هذه الوجوه اللفظية"
+  },
+  "m.vii.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.vii.II.1": {
+    "transliterated": "qāla al-muʿallim al-awwal",
+    "arabic": "قال المعلم الأول"
+  },
+  "m.vii.II.2": {
+    "transliterated": "fī asbāb al-tašnīʿ",
+    "arabic": "(في أسباب التشنيع)"
+  },
+  "m.vii.II.3": {
+    "transliterated": "wa-hāḏihi al-muḍlillāt qad tustaʿmalu li-l-muġālaṭa",
+    "arabic": "وهذه المضللات قد تستعمل للمغالطة"
+  },
+  "m.vii.II.4": {
+    "transliterated": "fa-naqūlu inna al-muġālaṭa bi-ištirāk al-mafhūm ʿalā wuǧūhih",
+    "arabic": "فنقول إن المغالطة باشتراك المفهوم على وجوهه"
+  },
+  "m.vii.II.5": {
+    "transliterated": "wa-ammā allatī min ṭarīq al-maʿānī",
+    "arabic": "وأما التي من طريق المعاني"
+  },
+  "m.vii.II.6": {
+    "transliterated": "qad bayyannā wuǧūh al-muġālaṭāt",
+    "arabic": "قد بينا وجوه المغالطات"
+  },
+  "m.viii": {
+    "transliterated": "al-fann al-ṯāmin fī al-ḫiṭāba",
+    "arabic": "الفن الثامن في الخطابة"
+  },
+  "m.viii.I": {
+    "transliterated": "al-maqāla al-ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "m.viii.I.1": {
+    "transliterated": "fī manfaʿat al-ḫiṭāba",
+    "arabic": "في منفعة الخطابة"
+  },
+  "m.viii.I.2": {
+    "transliterated": "fī ʿamūd al-ḫiṭāba wa-aʿwānihā wa-l-tafrīq baynahā wa-bayna al-ǧadal",
+    "arabic": "في عمود الخطابة وأعوانها والتفريق بينهما وبين الجدل"
+  },
+  "m.viii.I.3": {
+    "transliterated": "fī al-aġrāḍ allatī tuḫaṣṣaṣ bi-l-ḫuṭab",
+    "arabic": "في الأغراض التي تخصص بالخطب"
+  },
+  "m.viii.I.4": {
+    "transliterated": "fī mušārakāt al-ḫiṭāba al-ṣanāʾiʿ al-uḫar wa-muḫālafatihā lahā",
+    "arabic": "في مشاركات الخطابة الصنائع الأخر ومخالفتها لها"
+  },
+  "m.viii.I.5": {
+    "transliterated": "fī šarḥ ḥadd al-ḫiṭāba",
+    "arabic": "في شرح حد الخطابة"
+  },
+  "m.viii.I.6": {
+    "transliterated": "fī al-ʿamūd wa-huwa al-ṯabt wa-fī aqsāmih",
+    "arabic": "في العمود وهو التثبت وفي أقسامه"
+  },
+  "m.viii.I.7": {
+    "transliterated": "wa-ammā al-kāʾina ʿan al-mutasāwiyāt",
+    "arabic": "وأما الكائنة عن المتساويات"
+  },
+  "m.viii.II": {
+    "transliterated": "al-maqāla al-ṯāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "m.viii.II.1": {
+    "transliterated": "fī al-aġrāḍ al-awwalīya li-l-ḫuṭab",
+    "arabic": "في الأغراض الأولية للخطب"
+  },
+  "m.viii.II.2": {
+    "transliterated": "fī al-mašūrāt allatī fī al-umūr al-ǧuzʾīya ġayr al-ʿiẓām",
+    "arabic": "في المشورات التي في الأمور الجزئية غير العظام"
+  },
+  "m.viii.II.3": {
+    "transliterated": "fī al-ašadd wa-l-aḍʿaf wa-ḫatm al-qawl fī al-mašūrīyāt",
+    "arabic": "في الأشد والأضعف وختم القول في المشوريات"
+  },
+  "m.viii.II.4": {
+    "transliterated": "fī al-munāfirīyāt wa-huwa bāb al-madḥ wa-l-ḏamm",
+    "arabic": "في المنافريات وهو باب المدح والذم"
+  },
+  "m.viii.II.5": {
+    "transliterated": "fī šakāyat al-ẓulm wa-l-iʿtidār bi-annahu lā ẓulm",
+    "arabic": "في شكاية الظلم والاعتذار بأنه لا ظلم"
+  },
+  "m.viii.II.6": {
+    "transliterated": "fī asbāb al-ladḏa al-dāʿiya ilā al-ǧawr",
+    "arabic": "في أسباب اللذة الداعية إلى الجور"
+  },
+  "m.viii.II.7": {
+    "transliterated": "fī al-asbāb al-musahhila li-l-ǧawr",
+    "arabic": "في الأسباب المسهلة للجور"
+  },
+  "m.viii.II.8": {
+    "transliterated": "fī al-tanaṣṣul wa-l-iʿtidār wa-ǧawāb al-šākī",
+    "arabic": "في التنصل والاعتذار وجواب الشاكي"
+  },
+  "m.viii.II.9": {
+    "transliterated": "wa-ammā al-taṣdīqāt allatī laysat ʿan ṣināʿa wa-akṯar nafʿihā fī al-mašāǧirāt",
+    "arabic": "وأما التصديقات التي ليست عن صناعة وأكثر نفعها في المشاجرات"
+  },
+  "m.viii.III": {
+    "transliterated": "al-maqāla al-ṯāliṯa",
+    "arabic": "المقالة الثالثة"
+  },
+  "m.viii.III.1": {
+    "transliterated": "li-natakallam al-ān fī al-muḫāṭabāt allatī yustadraǧu bihā al-quḍā",
+    "arabic": "لنتكلم الآن في المخاطبات التي تستدرج بها القضا"
+  },
+  "m.viii.III.2": {
+    "transliterated": "fī anwāʿ al-ṣadāqa wa-l-amr wa-l-ḫawf wa-l-šuǧāʿa wa-l-ǧubn",
+    "arabic": "في أنواع الصداقة والأمر والخوف والشجاعة والجبن"
+  },
+  "m.viii.III.3": {
+    "transliterated": "fī anwāʿ al-istiḥyāʾ wa-ġayr al-istiḥyāʾ wa-l-minna",
+    "arabic": "في أنواع الاستحياء وغير الاستحياء والمنة"
+  },
+  "m.viii.III.4": {
+    "transliterated": "fī anwāʿ al-ihtimām bi-l-ġayr wa-l-šafaqa ʿalayhi wa-l-ḥasad",
+    "arabic": "في أنواع الاهتمام بالغير والشفقة عليه والحسد"
+  },
+  "m.viii.III.5": {
+    "transliterated": "fī mawāḍiʿ naḥw iḫtilāf al-nās fī al-aḫlāq",
+    "arabic": "في مواضع نحو اختلاف الناس في الأخلاق"
+  },
+  "m.viii.III.6": {
+    "transliterated": "fī al-umūr al-muštaraka li-l-umūr al-ḫiṭābīya",
+    "arabic": "في الأمور المشتركة للأمور الخطابية"
+  },
+  "m.viii.III.7": {
+    "transliterated": "fī al-farq bayna al-muqaddimāt al-ǧadalīya wa-l-ḫiṭābīya",
+    "arabic": "في الفرق بين المقدمات الجدلية والخطابية"
+  },
+  "m.viii.III.8": {
+    "transliterated": "fī al-ḍamāʾir al-muḥarrafa al-maqbūla fī al-ḫiṭāba wa-l-maḏḏūla minhā",
+    "arabic": "في الضمائر المحرفة المقبولة في الخطابة والمرذولة منها"
+  },
+  "m.viii.IV": {
+    "transliterated": "al-maqāla al-rābiʿa",
+    "arabic": "المقالة الرابعة"
+  },
+  "m.viii.IV.1": {
+    "transliterated": "fī al-taḥsīnāt wa-iḫtiyār al-alfāẓ li-l-taġayyurāt",
+    "arabic": "في التحسينات واختيار الألفاظ للتغيرات"
+  },
+  "m.viii.IV.2": {
+    "transliterated": "fī al-kalām wa-stiʿmāl al-adawāt fīhā wa-l-nabarāt",
+    "arabic": "في الكلام واستعمال الأدوات فيها والنبرات"
+  },
+  "m.viii.IV.3": {
+    "transliterated": "fī išbāʿ al-kalām fī istiʿmāl mā yuhajjinu al-lafẓ",
+    "arabic": "في إشباع الكلام في استعمال ما يهجن اللفظ"
+  },
+  "m.viii.IV.4": {
+    "transliterated": "fī āḫir al-qawl al-ḫiṭābī wa-tartībihā wa-ḫāṣṣīyatihā",
+    "arabic": "في آخر القول الخطابي وترتيبها وخاصيتها"
+  },
+  "m.viii.IV.5": {
+    "transliterated": "fī al-suʾāl al-ḫiṭābī wa-annahu ayna yanbaġī",
+    "arabic": "في السؤال الخطابي وأنه أين ينبغى"
+  },
+  "m.ix": {
+    "transliterated": "al-fann al-tāsiʿ fī al-šiʿr",
+    "arabic": "الفن التاسع في الشعر"
+  },
+  "m.ix.1": {
+    "transliterated": "fī al-šiʿr muṭlaqan wa-aṣnāf al-ṣiyġāt al-šiʿrīya",
+    "arabic": "في الشعر مطلقاً وأصناف الصيغات الشعرية"
+  },
+  "m.ix.2": {
+    "transliterated": "fī aṣnāf al-aʿrāḍ wa-l-muḥākayāt al-kullīya allatī li-l-šiʿr",
+    "arabic": "في أصناف الأعراض والمحاكيات الكلية التي للشعر"
+  },
+  "m.ix.3": {
+    "transliterated": "fī al-aḫbār min kayfīyat al-šiʿr",
+    "arabic": "في الأخبار من كيفية الشعر"
+  },
+  "m.ix.4": {
+    "transliterated": "fī munāsabat maqādīr al-abīyāt maʿa al-aʿrāḍ",
+    "arabic": "في مناسبة مقادير الأبيات مع الأعراض"
+  },
+  "m.ix.5": {
+    "transliterated": "fī ḥusn tartīb al-šiʿr",
+    "arabic": "في حسن ترتيب الشعر"
+  },
+  "m.ix.6": {
+    "transliterated": "fī aǧzāʾ aṭrāġūḏ",
+    "arabic": "في أجزاء أطراغوذ"
+  },
+  "m.ix.7": {
+    "transliterated": "fī qismat al-alfāẓ wa-muwāfaqatihā li-anwāʿ al-šiʿr",
+    "arabic": "في قسمة الألفاظ وموافقتها لأنواع الشعر"
+  },
+  "m.ix.8": {
+    "transliterated": "fī wuǧūh taqṣīr al-šāʿir",
+    "arabic": "في وجوه تقصير الشاعر"
+  },
+  "ṭ.": {
+    "transliterated": "al-Ṭabīʿīyāt",
+    "arabic": "الطبيعيات"
+  },
+  "ṭ.i": {
+    "transliterated": "al-Fann al-Awwal fī al-Samāʿ al-Ṭabīʿī",
+    "arabic": "الفن الأول في السماع الطبيعي"
+  },
+  "ṭ.i.Intro": {
+    "transliterated": "al-Muqaddima",
+    "arabic": "المقدمة"
+  },
+  "ṭ.i.I": {
+    "transliterated": "al-Maqāla al-Ūlā fī al-Asbāb wa-al-Mabādiʾ li-l-Ṭabīʿīyāt",
+    "arabic": "المقالة الأولى في الأسباب والمبادئ للطبيعيات"
+  },
+  "ṭ.i.I.1": {
+    "transliterated": "fī Taʿrīf al-Ṭarīq alladhī Yatawaṣṣalu minhu ilā al-ʿIlm bi-l-Ṭabīʿīyāt",
+    "arabic": "في تعريف الطريق الذي يتوصل منه إلى العلم بالطبيعيات"
+  },
+  "ṭ.i.I.2": {
+    "transliterated": "fī Taʿdīd al-Mabādiʾ al-Ṭabīʿīyāt ʿalā Sabīl al-Muṣādara wa-al-Waḍʿ",
+    "arabic": "في تعديد المبادئ الطبيعيات على سبيل المصادرة والوضع"
+  },
+  "ṭ.i.I.3": {
+    "transliterated": "fī Kayfīya Kawn hādhihi al-Mabādiʾ Mushtaraka",
+    "arabic": "في كيفية كون هذه المبادئ مشتركة"
+  },
+  "ṭ.i.I.4": {
+    "transliterated": "fī Taʿqīb mā Qālahu Burmānīdīs wa-Mālīyūs fī Amr Mabādiʾ al-Wujūd",
+    "arabic": "في تعقيب ما قاله برمانيدس وماليوس في أمر مبادئ الوجود"
+  },
+  "ṭ.i.I.5": {
+    "transliterated": "fī Taʿrīf al-Ṭabīʿa",
+    "arabic": "في تعريف الطبيعة"
+  },
+  "ṭ.i.I.6": {
+    "transliterated": "fī Nisbat al-Ṭabīʿa ilā al-Mādda wa-al-Ṣūra wa-al-Ḥaraka",
+    "arabic": "في نسبة الطبيعة إلى المادة والصورة والحركة"
+  },
+  "ṭ.i.I.7": {
+    "transliterated": "fī Alfāẓ Mushtaqqa min al-Ṭabīʿa wa-Bayān Aḥkāmihā",
+    "arabic": "في ألفاظ مشتقة من الطبيعة وبيان أحكامها"
+  },
+  "ṭ.i.I.8": {
+    "transliterated": "fī Kayfīya Baḥth al-ʿIlm al-Ṭabīʿī wa-Mushārikatih li-ʿIlm Ākhar in Kānat lahā Mushāraka",
+    "arabic": "في كيفية بحث العلم الطبيعى ومشاركته لعلم آخر إن كانت له مشاركة"
+  },
+  "ṭ.i.I.9": {
+    "transliterated": "fī Taʿrīf Ashadd al-ʿIlal Ihtimāman li-l-Ṭabīʿī fī Baḥthih",
+    "arabic": "في تعريف أشد العلل اهتماماً للطبيعي في بحثه"
+  },
+  "ṭ.i.I.10": {
+    "transliterated": "fī Taʿrīf Aṣnāf ʿIllah min al-Arbaʿ",
+    "arabic": "في تعريف أصناف علة من الأربع"
+  },
+  "ṭ.i.I.11": {
+    "transliterated": "fī Munāsabāt al-ʿIlal fī Aqsām Aḥwāl al-ʿIlal",
+    "arabic": "في مناسبات العلل في أقسام أحوال العلل"
+  },
+  "ṭ.i.I.12": {
+    "transliterated": "fī Dhikr fī Dhikr al-Bakht wa-l-Ittiqāq wa-l-Ikhtilāf fīhā wa-Īḍāḥ Ḥaqīqat Ḥālihā",
+    "arabic": "في ذكر في ذكر البخت والاتفاق والاختلاف فيها وإيضاح حقيقة حالها"
+  },
+  "ṭ.i.I.13": {
+    "transliterated": "Akhtaʾa fī Bāb al-Ittiqāq",
+    "arabic": "أخطأ في باب الاتفاق"
+  },
+  "ṭ.i.I.14": {
+    "transliterated": "fī Naqḍ Ḥujaj man wa-l-Bakht wa-Naqḍ Madhāhibihim",
+    "arabic": "في نقض حجج من والبخت ونقض مذاهبهم"
+  },
+  "ṭ.i.I.15": {
+    "transliterated": "fī Kayfīya Dukhūl al-ʿIlal fī al-Mabāḥith wa-Ṭalab Allāh wa-l-Jawāb ʿanhu",
+    "arabic": "في كيفية دخول العلل في المباحث وطلب الله والجواب عنه"
+  },
+  "ṭ.i.II": {
+    "transliterated": "al-Maqāla al-Thāniya fī al-Ḥaraka wa-mā Yajrī maʿahā",
+    "arabic": "المقالة الثانية في الحركة وما يجرى معها"
+  },
+  "ṭ.i.II.1": {
+    "transliterated": "fī al-Ḥaraka",
+    "arabic": "في الحركة"
+  },
+  "ṭ.i.II.2": {
+    "transliterated": "fī Nisbat al-Ḥaraka ilā al-Maqūlāt",
+    "arabic": "في نسبة الحركة إلى المقولات"
+  },
+  "ṭ.i.II.3": {
+    "transliterated": "fī Bayān al-Maqūlāt allatī Yaqaʿu fīhā al-Ḥaraka wa-ḥdahā lā Ghayrahā",
+    "arabic": "في بيان المقولات التى يقع الحركة وحدها لا غيرها"
+  },
+  "ṭ.i.II.4": {
+    "transliterated": "fī Taḥqīq Taqābul al-Ḥaraka wa-l-Sukūn",
+    "arabic": "في تحقيق تقابل الحركة والسكون"
+  },
+  "ṭ.i.II.5": {
+    "transliterated": "fī Ibtidāʾ al-Qawl fī al-Makān wa-Īrād Ḥujaj Mubṭilīhi wa-Muthbitīhi",
+    "arabic": "في ابتداء القول في المكان وإيراد حجج مبطليه ومثبتيه"
+  },
+  "ṭ.i.II.6": {
+    "transliterated": "fī Dhikr Madhāhib al-Nās fī al-Makān wa-Īrād Ḥujajihim",
+    "arabic": "في ذكر مذاهب الناس في المكان وإيراد حججهم"
+  },
+  "ṭ.i.II.7": {
+    "transliterated": "fī Baʿḍ Madhāhib man Ẓanna anna al-Makān Hiyūlā aw Ṣūra aw Saṭḥ Kān aw Buʿd",
+    "arabic": "في بعض مذاهب من ظن أن المكان هيولى أو صورة أو سطح كان أو بعد"
+  },
+  "ṭ.i.II.8": {
+    "transliterated": "fī Munāqaḍat al-Qāʾilīn bi-l-Khalāʾ",
+    "arabic": "في مناقضة القائلين بالخلاء"
+  },
+  "ṭ.i.II.9": {
+    "transliterated": "fī Taḥqīq al-Qawl fī Māhiyyat al-Makān wa-Baʿḍ Ḥujaj Mubṭilīhi wa-l-Mukhtiʾīn fīhi",
+    "arabic": "في تحقيق القول في ماهية المكان وبعض حجج مبطليه والمخطئين فيه"
+  },
+  "ṭ.i.II.10": {
+    "transliterated": "fī Ibtidāʾ al-Qawl fī al-Zamān wa-Ikhtilāf al-Nās fīhi wa-Munāqaḍat al-Mukhtiʾīn fīhi",
+    "arabic": "في ابتداء القول في الزمان واختلاف الناس فيه ومناقضة المخطئين فيه"
+  },
+  "ṭ.i.II.11": {
+    "transliterated": "fī Taḥqīq Māhiyyat al-Zamān wa-Ithbātihā",
+    "arabic": "في تحقيق ماهية الزمان وإثباتها"
+  },
+  "ṭ.i.II.12": {
+    "transliterated": "Bayān Amr al-Ān",
+    "arabic": "بيان أمر الان"
+  },
+  "ṭ.i.II.13": {
+    "transliterated": "fī ḥall al-šukūk al-maqūla fī al-zamān wa-itmām al-qawl fī mabāḥiṯ zamānīya miṯl al-kawn fī al-zamān wa al-kawn lā fī al-zamān wa-fī al-dahr wa-fī al-sarmad wa-taʿayyunuhu wa-huwa wa-qabīl wa-baʿīd wa-l-qadīm",
+    "arabic": "في حل الشكوك المقولة في الزمان وإتمام القول في مباحث زمانية مثل الكون في الزمان والكون لا في الزمان وفي الدهر وفي السرمد وتعينه وهو وقبيل وبعيد والقديم"
+  },
+  "ṭ.i.III": {
+    "arabic": "المقالة الثالثة في الأمور التى للطبيعيات من جهة ما لها",
+    "transliterated": "al-maqāla al-ṯāliṯa fī al-umūr allatī li-l-ṭabīʿīyāt min ǧihat mā lahā"
+  },
+  "ṭ.i.III.1": {
+    "arabic": "في كيفية البحث الذي يختص بهذه المقالة",
+    "transliterated": "fī kayfīya al-baḥṯ alladī yaḫtaṣṣu bi-hāḏihi al-maqāla"
+  },
+  "ṭ.i.III.2": {
+    "arabic": "في التتالى والتماس والتشافع والتداخل والتلاصق والاتصال والوسط والطرف ومعاً وفرادى",
+    "transliterated": "fī al-tatālī wa-l-tamāss wa-l-tašāfuʿ wa-l-tadāḫul wa-l-talāṣuq wa-l-ittiṣāl wa-l-wasaṭ wa-l-ṭaraf wa-maʿan wa-farādā"
+  },
+  "ṭ.i.III.3": {
+    "arabic": "في حال الأجسام في انقسامها وذكر ما اختلف فيه وما تعلق به المبطلون من الحجج",
+    "transliterated": "fī ḥāl al-aǧsām fī inqisāmihā wa-ḏikr mā iḫtalafa fīhi wa-mā taʿallaqa bihi al-mubṭilūn min al-ḥuǧǧ"
+  },
+  "ṭ.i.III.4": {
+    "arabic": "في إثبات الرأى الحق بها وإبطال الباطل",
+    "transliterated": "fī iṯbāt al-raʾy al-ḥaqq bihā wa-ibṭāl al-bāṭil"
+  },
+  "ṭ.i.III.5": {
+    "arabic": "في حل شكوك المبطلين في الجزء",
+    "transliterated": "fī ḥall šukūk al-mubṭilīn fī al-ǧuzʾ"
+  },
+  "ṭ.i.III.6": {
+    "arabic": "في مناسبات المسافات والحركات والأزمنة في هذا الشأن ويتبين أنه ليس لشئ منها أول جزء",
+    "transliterated": "fī munāsabāt al-masāfāt wa-l-ḥarakāt wa-l-azmina fī hāḏā al-šāʾn wa-yatabayyanu annahu laysa li-šayʾ minhā awwal ǧuzʾ"
+  },
+  "ṭ.i.III.7": {
+    "arabic": "في ابتداء الكلام في تناهى الأجسام ولاتناهيها وذكر ظنون الناس في ذلك",
+    "transliterated": "fī ibtidāʾ al-kalām fī tanāhī al-aǧsām wa-lā-tanāhīhā wa-ḏikr ẓunūn al-nās fī ḏālika"
+  },
+  "ṭ.i.III.8": {
+    "arabic": "في أنه لا يمكن أن يكون جسم أو مقدار أو عدة ذو ترتيب غير متناه وأنه لا يمكن أن يكون جسم متحرك بكلية غير متناه",
+    "transliterated": "fī annahu lā yumkin an yakūna ǧism aw miqdār aw ʿidda ḏū tartīb ġayr mutanāh wa-annahu lā yumkin an yakūna ǧism mutaḥarrik bi-kullīya ġayr mutanāh"
+  },
+  "ṭ.i.III.9": {
+    "arabic": "في تبين كيفية دخول ما لا يتناهى في الوجود وغير دخوله فيه ونقض حجج من قال بوجود ما لا يتناهى بالفعل",
+    "transliterated": "fī tabayyun kayfīya duḫūl mā lā yatanāhā fī al-wuǧūd wa-ġayr duḫūlihi fīhi wa-naqḍ ḥuǧǧ man qāla bi-wuǧūd mā lā yatanāhā bi-l-fiʿl"
+  },
+  "ṭ.i.III.10": {
+    "arabic": "في أن الأجسام متناهية من حيث التأثير والتأثر",
+    "transliterated": "fī anna al-aǧsām mutanāhiya min ḥayṯ al-taʾṯīr wa-l-taʾaṯṯur"
+  },
+  "ṭ.i.III.11": {
+    "arabic": "في أنه ليس للحركة والزمان شي إلا ذات البارى تعالى وأنه لا أول لهما من ذاتهما",
+    "transliterated": "fī annahu laysa li-l-ḥaraka wa-l-zamān šayʾ illā ḏāt al-bārī taʿālā wa-annahu lā awwal lahumā min ḏātihimā"
+  },
+  "ṭ.i.III.12": {
+    "arabic": "في تعقيب ما يقال إن الأجسام الطبيعية تخلع عند التصغر المفرط صورها بل لكل واحد منها حد لا يحفظ صورته في أقل منه وكذلك تعقيب ما قيل من الحركات ما لا أقل منه",
+    "transliterated": "fī taʿqīb mā yuqāl inna al-aǧsām al-ṭabīʿīya taḫlaʿ ʿinda al-taṣġīr al-mufriṭ ṣuwarahā bal li-kull wāḥid minhā ḥadd lā yuḥfaẓu ṣūratahu fī aqall minhu wa-ka-ḏālika taʿqīb mā qīla min al-ḥarakāt mā lā aqall minhu"
+  },
+  "ṭ.i.III.13": {
+    "arabic": "في جهات الأجسام",
+    "transliterated": "fī ǧihāt al-aǧsām"
+  },
+  "ṭ.i.III.14": {
+    "arabic": "في النظر في أمر جهات الحركات الطبيعية وهي المستقيمة",
+    "transliterated": "fī al-naẓar fī amr ǧihāt al-ḥarakāt al-ṭabīʿīya wa-hiya al-mustaqīma"
+  },
+  "ṭ.i.IV": {
+    "arabic": "المقالة الرابعة في عوارض هذه الأمور الطبيعية المذكورة ومناسبات بعضها مع بعض والأمور التي تلحق مناسبات",
+    "transliterated": "al-maqāla al-rābiʿa fī ʿawāriḍ hāḏihi al-umūr al-ṭabīʿīya al-maḏkūra wa-munāsabāt baʿḍihā maʿa baʿḍ wa-l-umūr allatī talḥaqu munāsabāt"
+  },
+  "ṭ.i.IV.1": {
+    "arabic": "في الأغراض التي تشتمل عليها هذه المقالة",
+    "transliterated": "fī al-aġrāḍ allatī taštamilu ʿalayhā hāḏihi al-maqāla"
+  },
+  "ṭ.i.IV.2": {
+    "arabic": "في وحدة الحركة وكثرها",
+    "transliterated": "fī waḥdat al-ḥaraka wa-kuṯrihā"
+  },
+  "ṭ.i.IV.3": {
+    "arabic": "الحركة الواحدة والجنس والنوع",
+    "transliterated": "al-ḥaraka al-wāḥida wa-l-ǧins wa-l-nawʿ"
+  },
+  "ṭ.i.IV.4": {
+    "arabic": "في حل الشكوك الموردة على كون الحركة واحدة",
+    "transliterated": "fī ḥall al-šukūk al-mawruda ʿalā kawn al-ḥaraka wāḥida"
+  },
+  "ṭ.i.IV.5": {
+    "arabic": "في مضامة الحركة ولا مضامتها",
+    "transliterated": "fī muḍāmat al-ḥaraka wa-lā muḍāmatahā"
+  },
+  "ṭ.i.IV.6": {
+    "arabic": "في تعداد الحركات وتقابلها",
+    "transliterated": "fī taʿdād al-ḥarakāt wa-taqābulihā"
+  },
+  "ṭ.i.IV.7": {
+    "arabic": "في تقابل الحركة والسكون",
+    "transliterated": "fī taqābul al-ḥaraka wa-l-sukūn"
+  },
+  "ṭ.i.IV.8": {
+    "arabic": "في بيان حال الحركات في جواز أن يتصل بعضها ببعض اتصالا موجوداً وامتناع ذلك فيها حتى بينهما سكون لائحة",
+    "transliterated": "fī bayān ḥāl al-ḥarakāt fī ǧawāz an yattaṣila baʿḍuhā bi-baʿḍin ittiṣālan mawǧūdan wa-imtināʿ ḏālika fīhā ḥattā baynahumā sukūn lāʾiḥa"
+  },
+  "ṭ.i.IV.9": {
+    "arabic": "في الحركة المتقدمة بالطبع وفي إيراد فصول الحركات على الجمع",
+    "transliterated": "fī al-ḥaraka al-mutaqaddima bi-l-ṭabʿ wa-fī īrād fuṣūl al-ḥarakāt ʿalā al-ǧamʿ"
+  },
+  "ṭ.i.IV.10": {
+    "arabic": "في كيفية كون الخير طبيعياً للجسم وكذلك كون أشياء أخرى طبيعية له",
+    "transliterated": "fī kayfīya kawn al-ḫayr ṭabīʿiyyan li-l-ǧism wa-ka-ḏālika kawn ašyāʾ uḫrā ṭabīʿīya lah"
+  },
+  "ṭ.i.IV.11": {
+    "arabic": "في إثبات أن لكل جسم خيراً واحداً طبيعيا وكيفية وجود الخير لكلية الجسم ولأجزائه والبسيط وللمركب",
+    "transliterated": "fī iṯbāt anna li-kull ǧism ḫayran wāḥidan ṭabīʿiyyan wa-kayfīya wuǧūd al-ḫayr li-kullīyat al-ǧism wa-li-aǧzāʾihi wa-l-basīṭ wa-li-l-murakkab"
+  },
+  "ṭ.i.IV.12": {
+    "arabic": "في إثبات أن لكل جسم في إثبات أن لكل جسم طبيعى مبدأ حركة وضعية أو مكانية",
+    "transliterated": "fī iṯbāt anna li-kull ǧism ṭabīʿī fī iṯbāt anna li-kull ǧism ṭabīʿī mabdaʾ ḥaraka waḍʿīya aw makānīya"
+  },
+  "ṭ.i.IV.13": {
+    "arabic": "في الحركة التي بالعرض",
+    "transliterated": "fī al-ḥaraka allatī bi-l-ʿaraḍ"
+  },
+  "ṭ.i.IV.14": {
+    "arabic": "في الحركة القسرية وفي التي من تلقاء المتحرك",
+    "transliterated": "fī al-ḥaraka al-qasrīya wa-fī allatī min talqāʾ al-mutaḥarrik"
+  },
+  "ṭ.i.IV.15": {
+    "arabic": "في أحوال العلل المتحركة والمناسبات بين العلل المحركة والمتحركة",
+    "transliterated": "fī aḥwāl al-ʿilal al-mutaḥarrika wa-l-munāsabāt bayna al-ʿilal al-muḥarrika wa-l-mutaḥarrika"
+  },
+  "ṭ.ii": {
+    "transliterated": "al-Fann al-Thānī fī al-Samāʾ wa-l-ʿĀlam",
+    "arabic": "الفن الثاني في السماء والعالم"
+  },
+"ṭ.ii.I": {
+    "transliterated": "",
+    "arabic": ""
+  },
+  "ṭ.ii.I.1": {
+    "transliterated": "fī Quwā al-Ajsām al-Basīṭa wa-l-Murakkaba wa-Afʿālihā",
+    "arabic": "في قوى الأجسام البسيطة والمركبة وأفعالها"
+  },
+  "ṭ.ii.I.2": {
+    "transliterated": "fī Aṣnāf al-Quwā wa-l-Ḥarakāt al-Basīṭa al-Ūlā wa-Ibānat anna al-Ṭabīʿa al-Falakīya Khārija ʿan al-Ṭabāʾiʿ al-ʿUnṣurīya",
+    "arabic": "في أصناف القوى والحركات البسيطة الأولى وإبانة أن الطبيعة الفلكية خارجة عن الطبايع العنصرية"
+  },
+  "ṭ.ii.I.3": {
+    "transliterated": "fī al-Ishāra ilā Aʿyān al-Ajsām al-Basīṭa al-Madhkūra wa-Tartībihā wa-Awṣāfihā wa-Ashkālihā allatī bi-l-Ṭabʿ wa-Mukhālafat al-Falak lahā",
+    "arabic": "في الإشارة إلى أعيان الأجسام البسيطة المذكورة وترتيبها وأوصافها وأشكالها التي بالطبع ومخالفة الفلك لها"
+  },
+  "ṭ.ii.I.4": {
+    "transliterated": "fī Aḥwāl al-Jism al-Mutaḥarrik bi-l-Istidāra wa-mā Yajūzu ʿalayhi min Aṣnāf al-Taghayyur wa-mā lā Yajūz",
+    "arabic": "في أحوال الجسم المتحرك بالاستدارة وما يجوز عليه من أصناف التغير وما لا يجوز"
+  },
+  "ṭ.ii.I.5": {
+    "transliterated": "fī al-Kurāt wa-Miḥwar al-Qamar",
+    "arabic": "في الكرات ومحور القمر"
+  },
+  "ṭ.ii.I.6": {
+    "transliterated": "fī Ḥarakāt al-Kawākib",
+    "arabic": "في حركات الكواكب"
+  },
+  "ṭ.ii.I.7": {
+    "transliterated": "fī Ḥashw al-Jism al-Samāwī wa-mā Qālahu al-Nās fī Aḥwāl al-Arḍ wa-Sāʾir al-ʿAnāṣir",
+    "arabic": "في حشو الجسم السماوى وما قاله الناس في أحوال الأرض وساير العناصر"
+  },
+  "ṭ.ii.I.8": {
+    "transliterated": "fī Munāqaḍat al-Ārāʾ al-Bāṭila al-Madhkūra fī Taʿlīl Sukūn al-Arḍ",
+    "arabic": "في مناقضة الآراء الباطلة المذكورة في تعليل سكون الأرض"
+  },
+  "ṭ.ii.I.9": {
+    "transliterated": "fī Dhikr Ikhtilāf al-Nās fī al-Khafīf wa-l-Thaqīl wa-Istinbāṭ al-Raʾy al-Ḥaqq min Bayn Raʾyihim",
+    "arabic": "في ذكر اختلاف الناس في الخفيف والثقيل واستنباط الرأي الحق من بين رأيهم"
+  },
+  "ṭ.ii.I.10": {
+    "transliterated": "fī anna Jumlat al-Ajsām al-Mulāqiya baʿḍuhā bi-baʿḍ ilā Ākhir mā Yatanāhā Jumla Wāḥida",
+    "arabic": "في أن جملة الأجسام الملاقية بعضها ببعض إلى آخر ما يتناهى جملة واحدة"
+  },
+    "ṭ.iii": {
+    "transliterated": "al-Fann al-Thālith fī al-Kawn wa-l-Fasād",
+    "arabic": "الفن الثالث في الكون والفساد"
+  },
+  "ṭ.iii.I": {
+    "transliterated": "",
+    "arabic": ""
+  },
+  "ṭ.iii.I.1": {
+    "transliterated": "fī Ikhtilāf Ārāʾ al-Aqdamīn al-Mutaqaddimīn fī al-Kawn wa-l-Istiḥāla wa-ʿAnāṣirihimā",
+    "arabic": "في اختلاف آراء الأقدمين المتقدمين في الكون والاستحالة وعناصرهما"
+  },
+  "ṭ.iii.I.2": {
+    "transliterated": "fī Iqtiṣāṣ Ḥujjat Kull Farīq",
+    "arabic": "في اقتصاص حجة كل فريق"
+  },
+  "ṭ.iii.I.3": {
+    "transliterated": "fī Naqḍ Ḥujaj al-Mukhtiʾīn Minhum",
+    "arabic": "في نقض حجج المخطئين منهم"
+  },
+  "ṭ.iii.I.4": {
+    "transliterated": "fī Ibṭāl Aqwāl Aṣḥāb al-Kumūn wa-man Yuqarrib wa-Yushārikuhum fī Nafy al-Istiḥāla",
+    "arabic": "في إبطال أقوال أصحاب الكمون ومن يقرب ويشاركهم في نفي الاستحالة"
+  },
+  "ṭ.iii.I.5": {
+    "transliterated": "fī Munāqaḍat Aṣḥāb al-Maḥabba wa-l-Ghalaba wa-l-Qāʾilīn bi-anna al-Kawn wa-l-Fasād bi-Iftirāq al-Ajzāʾ al-Ghayr Mutajazzaʾa",
+    "arabic": "في مناقضة أصحاب المحبة والغلبة والقائلين بأن الكون والفساد بافتراق الأجزاء الغير المتجزئة"
+  },
+  "ṭ.iii.I.6": {
+    "transliterated": "fī al-Tafrīqa bayna al-Kawn wa-l-Istiḥāla",
+    "arabic": "في التفرقة بين الكون والاستحالة"
+  },
+  "ṭ.iii.I.7": {
+    "transliterated": "fī Ibṭāl Madhhab Muḥdath fī al-Mizāj",
+    "arabic": "في إبطال مذهب محدث في المزاج"
+  },
+  "ṭ.iii.I.8": {
+    "transliterated": "fī al-Kalām fī al-Numūw",
+    "arabic": "في الكلام في النمو"
+  },
+  "ṭ.iii.I.9": {
+    "transliterated": "fī Ibānat ʿAdad al-Istiqṣāṭāt",
+    "arabic": "في إبانة عدد الاستقسات"
+  },
+  "ṭ.iii.I.10": {
+    "transliterated": "fī Dhikr Shukūk",
+    "arabic": "في ذكر شكوك"
+  },
+  "ṭ.iii.I.11": {
+    "transliterated": "fī Ḥall Shaṭr min Hādhihi al-Shukūk",
+    "arabic": "في حل شطر من هذه الشكوك"
+  },
+  "ṭ.iii.I.12": {
+    "transliterated": "fī Ḥall Qiṭʿa Ukhrā min Hādhihi al-Shukūk",
+    "arabic": "في حل قطعة أخرى من هذه الشكوك"
+  },
+  "ṭ.iii.I.13": {
+    "transliterated": "fī Ḥall Bāqī al-Shukūk",
+    "arabic": "في حل باقى الشكوك"
+  },
+  "ṭ.iii.I.14": {
+    "transliterated": "fī Infiʿālāt al-ʿAnāṣir baʿḍuhā min baʿḍ",
+    "arabic": "في انفعالات العناصر بعضها من بعض"
+  },
+  "ṭ.iv": {
+    "transliterated": "al-Fann al-Rābiʿ fī al-Afʿāl wa-l-Infiʿālāt",
+    "arabic": "الفن الرابع في الأفعال والانفعالات"
+  },
+  "ṭ.iv.intro": {
+    "transliterated": "al-Muqaddima",
+    "arabic": "المقدمة"
+  },
+  "ṭ.iv.I": {
+    "transliterated": "al-Maqāla al-Ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "ṭ.iv.I.1": {
+    "transliterated": "fī Ṭabaqāt al-ʿAnāṣir",
+    "arabic": "في طبقات العناصر"
+  },
+  "ṭ.iv.I.2": {
+    "transliterated": "fī Aḥwāl al-Kullīya min Aḥwāl al-Baḥr",
+    "arabic": "في أحوال الكلية من أحوال البحر"
+  },
+  "ṭ.iv.I.3": {
+    "transliterated": "fī Taʿrīf Sabab Taʿāqub al-Ḥarr wa-l-Bard",
+    "arabic": "في تعريف سبب تعاقب الحر والبرد"
+  },
+  "ṭ.iv.I.4": {
+    "transliterated": "fī Taʿrīf mā Yuqāl inna al-Ajsām Kullamā Izdādat",
+    "arabic": "في تعريف ما يقال إن الأجسام كلما ازدادت"
+  },
+  "ṭ.iv.I.5": {
+    "transliterated": "fī Taʿdīd al-Afʿāl wa-l-Infiʿālāt al-Mansūba ilā Hādhihi al-Kayfīyāt",
+    "arabic": "في تعديد الأفعال والانفعالات المنسوبة إلى هذه الكيفيات"
+  },
+  "ṭ.iv.I.6": {
+    "transliterated": "fī al-Naḍǧ wa-l-Nahw wa-l-ʿAfūna wa-l-Iḥtirāq",
+    "arabic": "في النضج والنهو والعفونة والاحتراق"
+  },
+  "ṭ.iv.I.7": {
+    "transliterated": "fī al-Ṭabkh wa-l-Thayy wa-l-Qalī wa-l-Tabkhīr wa-l-Tadkhīn wa-l-Taṣʿīd wa-l-Dhaws wa-l-Talyīn wa-l-Ishtiʿāl wa-l-Tajmīr wa-l-Tafḥīm wa-mā Yaqbalu Dhālika wa-mā lā Yaqbaluh",
+    "arabic": "في الطبخ والثي والقلى والتبخير والتدخين والتصعيد والذوب والتليين والاشتعال والتجمير والتفحيم وما يقبل ذلك وما لا يقبله"
+  },
+  "ṭ.iv.I.8": {
+    "transliterated": "fī al-Ḥall wa-l-ʿAqd",
+    "arabic": "في الحل والعقد"
+  },
+  "ṭ.iv.I.9": {
+    "transliterated": "fī Aṣnāf Infiʿālāt al-Raṭb wa-l-Yābis",
+    "arabic": "في أصناف انفعالات الرطب واليابس"
+  },
+  "ṭ.iv.II": {
+    "transliterated": "al-Maqāla al-Thāniya Fīmā Yatbaʿu al-Mizāj min al-Aḥwāl al-Mukhtalifa",
+    "arabic": "المقالة الثانية فيما يتبع المزاج من الأحوال المختلفة"
+  },
+  "ṭ.iv.II.1": {
+    "transliterated": "fī Dhikr Ikhtilāf al-Nās fī Ḥudūth al-Kayfīyāt al-Maḥsūsa Allatī Baʿd al-Arbaʿ wa-fī Nisbatiha ilā al-Mizāj wa-Munāqaḍat al-Mubṭilīn Minhum",
+    "arabic": "في ذكر اختلاف الناس في حدوث الكيفيات المحسوسة التي بعد الأربع وفي نسبتها إلى المزاج ومناقضة المبطلين منهم"
+  },
+  "ṭ.iv.II.2": {
+    "transliterated": "fī Taḥqīq al-Qawl fī Tawābiʿ al-Mizāj",
+    "arabic": "في تحقيق القول في توابع المزاج"
+  },
+    "ṭ.v": {
+    "transliterated": "al-Fann al-Khāmis Yashtamilu ʿalā Akwān al-Kāʾināt allatī lā Nafsa Lahā min al-Maʿādin wa-l-Āthār al-ʿUlwīya wa-mā Yushbihuhā",
+    "arabic": "الفن الخامس يشتمل على أكوان الكائنات التي لا نفس لها من المعادن والآثار العلوية وما يشبهها"
+  },
+  "ṭ.v.I": {
+    "transliterated": "al-Maqāla al-Ūlā Fīmā Yaḥduthu min Dhālika bi-Nāḥiyat al-Arḍ",
+    "arabic": "المقالة الأولى فيما يحدث من ذلك بناحية الأرض"
+  },
+  "ṭ.v.I.1": {
+    "transliterated": "fī al-Jibāl",
+    "arabic": "في الجبال"
+  },
+  "ṭ.v.I.2": {
+    "transliterated": "fī Manāfiʿ al-Jibāl wa-Takawwun al-Suḥub wa-l-Andāʾ",
+    "arabic": "في منافع الجبال وتكون السحب والأنداء"
+  },
+  "ṭ.v.I.3": {
+    "transliterated": "fī Manābiʿ al-Miyāh",
+    "arabic": "في منابع المياه"
+  },
+  "ṭ.v.I.4": {
+    "transliterated": "fī al-Zalāzil",
+    "arabic": "في الزلازل"
+  },
+  "ṭ.v.I.5": {
+    "transliterated": "fī Takawwun al-Maʿdinīyāt",
+    "arabic": "في تكون المعدنيات"
+  },
+  "ṭ.v.I.6": {
+    "transliterated": "fī Aḥwāl al-Maskūna wa-Afrāj al-Bilād",
+    "arabic": "في أحوال المسكونة وأفرجة البلاد"
+  },
+  "ṭ.v.II": {
+    "transliterated": "al-Maqāla al-Thāniya Tashtamilu ʿalā al-Aḥdāth wa-l-Kāʾināt allatī lā Nafsa Lahā Mimmā Yakūnu Fawq al-Arḍ",
+    "arabic": "المقالة الثانية تشتمل على الأحداث والكائنات التي لا نفس لها مما يكون فوق الأرض"
+  },
+  "ṭ.v.II.1": {
+    "transliterated": "fī al-Suḥub wa-mā Yanzilu Minhā wa-mā Yushbihu Dhālika",
+    "arabic": "في السحب وما ينزل منها وما يشبه ذلك"
+  },
+  "ṭ.v.II.2": {
+    "transliterated": "fī al-Muqaddimāt Allatī Yutawaṭṭaʾu li-Yuʿlam al-Sabab al-Fāʿil li-l-Hāla wa-Qaws Quzaḥ wa-Sāʾir mā Yushbihuhā",
+    "arabic": "في المقدمات التي يتوطأ ليعلم السبب الفاعل للهالة وقوس قزح وسائر ما يشبهها"
+  },
+  "ṭ.v.II.3": {
+    "transliterated": "fī al-Hāla wa-Qaws Quzaḥ",
+    "arabic": "في الهالة وقوس قزح"
+  },
+  "ṭ.v.II.4": {
+    "transliterated": "fī al-Riyāḥ",
+    "arabic": "في الرياح"
+  },
+  "ṭ.v.II.5": {
+    "transliterated": "fī al-Raʿd wa-l-Barq wa-l-Ṣawāʿiq wa-Kawākib al-Rajm wa-l-Shuhub al-Dāʾira wa-Dhawat al-Adhnāb",
+    "arabic": "في الرعد والبرق والصواعق وكواكب الرجم والشهب الدائرة وذوات الأذناب"
+  },
+  "ṭ.v.II.6": {
+    "transliterated": "fī al-Ḥawādith al-Kibār Allatī Taḥduthu fī al-ʿĀlam",
+    "arabic": "في الحوادث الكبار التي تحدث في العالم"
+  },
+  "ṭ.vi": {
+    "transliterated": "al-Fann al-Sādis Kitāb al-Nafs",
+    "arabic": "الفن السادس كتاب النفس"
+  },
+  "ṭ.vi.intro": {
+    "transliterated": "al-Muqaddima",
+    "arabic": "المقدمة"
+  },
+  "ṭ.vi.I": {
+    "transliterated": "al-Maqāla al-Ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "ṭ.vi.I.1": {
+    "transliterated": "Ithbāt al-Nafs wa-Taḥdīduhā min Ḥaythu Hiya Nafs",
+    "arabic": "إثبات النفس وتحديدها من حيث هي نفس"
+  },
+  "ṭ.vi.I.2": {
+    "transliterated": "fī Dhikr mā Qālahu al-Qudamāʾ fī al-Nafs fī Jawharihā wa ...",
+    "arabic": "في ذكر ما قاله القدماء في النفس في جوهرها و ..."
+  },
+  "ṭ.vi.I.3": {
+    "transliterated": "fī anna al-Nafs Dākhila fī Maqūlat al-Jawhar",
+    "arabic": "في أن النفس داخلة في مقولة الجوهر"
+  },
+  "ṭ.vi.I.4": {
+    "transliterated": "fī Tabyīn anna Ikhtilāf Afāʿīl al-Nafs li-Ikhtilāf Quwāhā",
+    "arabic": "في تبيين أن اختلاف أفاعيل النفس لاختلاف قواها"
+  },
+  "ṭ.vi.I.5": {
+    "transliterated": "Taʿdīd Quwā al-Nafs ʿalā Sabīl al-Taṣnīf",
+    "arabic": "تعديد قوى النفس على سبيل التصنيف"
+  },
+  "ṭ.vi.II": {
+    "transliterated": "al-Maqāla al-Thāniya",
+    "arabic": "المقالة الثانية"
+  },
+  "ṭ.vi.II.1": {
+    "transliterated": "fī Taḥqīq al-Quwā al-Mansūba ilā al-Nafs al-Nabātīya",
+    "arabic": "في تحقيق القوى المنسوبة إلى النفس النباتية"
+  },
+  "ṭ.vi.II.2": {
+    "transliterated": "fī Taḥqīq Aṣnāf al-Idrākāt Allatī Lanā",
+    "arabic": "في تحقيق أصناف الإدراكات التي لنا"
+  },
+  "ṭ.vi.II.3": {
+    "transliterated": "fī al-Ḥāssa al-Lamsīya",
+    "arabic": "في الحاسة اللمسية"
+  },
+  "ṭ.vi.II.4": {
+    "transliterated": "fī al-Dhaws wa-l-Shamm",
+    "arabic": "في الذوق والشم"
+  },
+  "ṭ.vi.II.5": {
+    "transliterated": "fī Ḥāssat al-Samʿ",
+    "arabic": "في حاسة السمع"
+  },
+  "ṭ.vi.III": {
+    "transliterated": "al-Maqāla al-Thālithah fī al-Ibṣār",
+    "arabic": "المقالة الثالثة في الإبصار"
+  },
+  "ṭ.vi.III.1": {
+    "transliterated": "fī al-Ḍawʾ wa-l-Shaffāf wa-l-Lawn",
+    "arabic": "في الضوء والشفيف واللون"
+  },
+  "ṭ.vi.III.2": {
+    "transliterated": "fī Madhāhib wa-Shukūk fī Amr al-Nūr wa-l-Shuʿāʿ wa-anna al-Nūr Laysa bi-Jism Bal Huwa Kayfīya Taḥduthu Fīhi",
+    "arabic": "في مذاهب وشكوك في أمر النور والشعاع وأن النور ليس بجسم بل هو كيفية تحدث فيه"
+  },
+  "ṭ.vi.III.3": {
+    "transliterated": "fī Munāqaḍat al-Madhāhib al-Mubṭilah li-anna Yakūna al-Nūr Shayʾan Ghayr al-Lawn al-Ẓāhir wa-Kalām fī al-Shaffāf wa-l-Lāmiʿ",
+    "arabic": "في مناقضة المذاهب المبطلة لأن يكون النور شيئاً غير اللون الظاهر وكلام في الشفاف واللامع"
+  },
+  "ṭ.vi.III.4": {
+    "transliterated": "fī Taʾammul Madhāhib Qīlat fī al-Alwān wa-Ḥadūthihā",
+    "arabic": "في تأمل مذاهب قيلت في الألوان وحدوتها"
+  },
+  "ṭ.vi.III.5": {
+    "transliterated": "fī Ikhtilāf al-Madhāhib fī al-Ruʾya wa-Ibṭāl al-Madhāhib al-Fāsida bi-Ḥasab al-Umūr Nafsihā",
+    "arabic": "في اختلاف المذاهب في الرؤية وإبطال المذاهب الفاسدة بحسب الأمور نفسها"
+  },
+  "ṭ.vi.III.6": {
+    "transliterated": "fī Ibṭāl Madhāhibihim min al-Ashyāʾ al-Maʿwūla fī Madhhabihim",
+    "arabic": "في إبطال مذاهبهم من الأشياء المعولة في مذهبهم"
+  },
+  "ṭ.vi.III.7": {
+    "transliterated": "fī Ḥall al-Shubah Allatī Ūridat fī Itmām al-Qawl fī al-Mubṣarāt Allatī Lahā Awḍāʿ Mukhtalifa min Shaffāf wa-min Ṣaqīlah",
+    "arabic": "في حل الشبه التي أوردها في إتمام القول في المبصرات التي لها أوضاع مختلفة من شفاف ومن صقيلة"
+  },
+  "ṭ.vi.III.8": {
+    "transliterated": "fī Sabab Ruʾyat al-Shayʾ al-Wāḥid Shayʾayn",
+    "arabic": "في سبب رؤية الشيء الواحد شيئين"
+  },
+  "ṭ.vi.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah fī al-Ḥawāss al-Bāṭinah",
+    "arabic": "المقالة الرابعة في الحواس الباطنة"
+  },
+  "ṭ.vi.IV.1": {
+    "transliterated": "fīhi Qawl Kullī ʿalā al-Ḥawāss al-Bāṭinah Allatī li-l-Ḥayawān",
+    "arabic": "فيه قول كلى على الحواس الباطنة التي للحيوان"
+  },
+  "ṭ.vi.IV.2": {
+    "transliterated": "fī Afʿāl al-Muṣawwirah wa-l-Mufakkirah min Hādhihi al-Ḥawāss al-Bāṭinah",
+    "arabic": "في أفعال المصورة والمفكرة من هذه الحواس الباطنة"
+  },
+  "ṭ.vi.IV.3": {
+    "transliterated": "fī Afʿāl al-Quwwah al-Mutaḏakkirah wa-l-Wahmīyah",
+    "arabic": "في أفعال القوة المتذكرة والوهمية"
+  },
+  "ṭ.vi.IV.4": {
+    "transliterated": "fī Aḥwāl al-Quwwah al-Muḥarrikah wa-fī Ḍarb min al-Nubuwwah al-Mutaʿalliqa Bihā",
+    "arabic": "في أحوال القوة المحركة وفي ضرب من النبوة المتعلقة بها"
+  },
+  "ṭ.vi.V": {
+    "transliterated": "al-Maqāla al-Khāmisah",
+    "arabic": "المقالة الخامسة"
+  },
+  "ṭ.vi.V.1": {
+    "transliterated": "fī Khawāṣṣ al-Afʿāl wa-l-Infiʿālāt Allatī li-l-Insān wa Bayān Quwā al-Naẓar wa-l-ʿAmal li-l-Nafs al-Insānīyah",
+    "arabic": "في خواص الأفعال والانفعالات التي للإنسان و بيان قوى النظر والعمل للنفس الإنسانية"
+  },
+  "ṭ.vi.V.2": {
+    "transliterated": "fī Ithbāt Qiwām al-Nafs al-Nāṭiqah Ghayr Mutaṭabbiʿah fī Māddah Jismānīyah",
+    "arabic": "في إثبات قوام النفس الناطقة غير متطبعة في مادة جسمانية"
+  },
+  "ṭ.vi.V.3": {
+    "transliterated": "Yashtamilu ʿalā Masʾalatayn Iḥdāhumā fī Kayfīyat Intifāʿ al-Nafs al-Insānīyah bi-l-Ḥawāss wa-l-Thāniyah Ithbāt Ḥudūthihā",
+    "arabic": "يشتمل على مسألتين إحداهما في كيفية انتفاع النفس الإنسانية بالحواس والثانية إثبات حدوثها"
+  },
+  "ṭ.vi.V.4": {
+    "transliterated": "fī anna al-Nafs al-Insānīyah lā Tafsudu wa-lā Tatanāsakh",
+    "arabic": "في أن النفس الإنسانية لا تفسد ولا تتناسخ"
+  },
+  "ṭ.vi.V.5": {
+    "transliterated": "fī al-ʿAql al-Fāʿʿāl fī Anfusinā wa-l-ʿAql al-Munfaʿil ʿan Anfusinā",
+    "arabic": "في العقل الفعال في أنفسنا والعقل المنفعل عن أنفسنا"
+  },
+  "ṭ.vi.V.6": {
+    "transliterated": "fī Marātib Afʿāl al-ʿAql wa-fī Aʿlā Marātibihā wa-Huwa al-ʿAql al-Qudsī",
+    "arabic": "في مراتب أفعال العقل وفي أعلى مراتبها وهو العقل القدسي"
+  },
+  "ṭ.vi.V.7": {
+    "transliterated": "fī ʿAdad al-Madhāhib al-Mawrūthah ʿan al-Qudamāʾ fī Amr al-Nafs wa-Afʿālihā wa-annahā Wāḥidah aw Kathīrah wa-Taṣḥīḥ al-Ḥaqq Minhā",
+    "arabic": "في عدد المذاهب الموروثة عن القدماء في أمر النفس وأفعالها وأنها واحدة أو كثيرة وتصحيح الحق منها"
+  },
+  "ṭ.vi.V.8": {
+    "transliterated": "fī Bayān al-Ālāt Allatī li-l-Nafs",
+    "arabic": "في بيان الآلات التي للنفس"
+  },
+  "ṭ.vii": {
+    "transliterated": "al-Fann al-Sābiʿ fī al-Nabāt",
+    "arabic": "الفن السابع في النبات"
+  },
+  "ṭ.vii.I.1": {
+    "transliterated": "fī Tawlīd al-Nabāt wa-Ghtidhāʾih",
+    "arabic": "في توليد النبات واغتذائه"
+  },
+  "ṭ.vii.I.2": {
+    "transliterated": "fī Aʿḍāʾ al-Nabāt",
+    "arabic": "في أعضاء النبات"
+  },
+  "ṭ.vii.I.3": {
+    "transliterated": "fī Mabādiʾ al-Taghdhiya wa-l-Tawlīd wa-l-Tawallud fī al-Nabāt",
+    "arabic": "في مبادئ التغذية والتوليد والتولد في النبات"
+  },
+  "ṭ.vii.I.4": {
+    "transliterated": "fī Ḥāl Tawallud Ajzāʾ al-Nabāt",
+    "arabic": "في حال تولد أجزاء النبات"
+  },
+  "ṭ.vii.I.5": {
+    "transliterated": "fī Taʿrīf Aḥwāl al-Sūq wa-l-Ghuṣūn wa-l-Waraq",
+    "arabic": "في تعريف أحوال السوق والغصون والورق"
+  },
+  "ṭ.vii.I.6": {
+    "transliterated": "fīmā Yatawalladu ʿan al-Nabāt min al-Thimār wa-l-Budhūr wa-l-Shawk",
+    "arabic": "فما يتولد عن النبات من الثمار والبذور والشوك"
+  },
+  "ṭ.vii.I.7": {
+    "transliterated": "fī Kalām Kullī fī Aṣnāf al-Nabāt",
+    "arabic": "في كلام كلى في أصناف النبات"
+  },
+  "ṭ.viii": {
+    "transliterated": "al-Fann al-Thāmin min al-Ṭabīʿīyāt fī al-Ḥayawān",
+    "arabic": "الفن الثامن من الطبيعيات في الحيوان"
+  },
+  "ṭ.viii.I": {
+    "transliterated": "al-Maqāla al-Ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "ṭ.viii.I.1": {
+    "transliterated": "fī Ikhtilāf al-Ḥayawān min Jihat al-Maʾwā wa-l-Maṭʿam ilākh",
+    "arabic": "في اختلاف الحيوان من جهة المأوى والمطعم الخ"
+  },
+  "ṭ.viii.I.2": {
+    "transliterated": "fī al-Aʿḍāʾ al-Kullīyah",
+    "arabic": "في الأعضاء الكلية"
+  },
+  "ṭ.viii.I.3": {
+    "transliterated": "fī Taʿdīd al-Aʿḍāʾ al-Ālātīyah",
+    "arabic": "في تعديد الأعضاء الآلية"
+  },
+  "ṭ.viii.II": {
+    "transliterated": "al-Maqāla al-Thāniyah",
+    "arabic": "المقالة الثانية"
+  },
+  "ṭ.viii.II.1": {
+    "transliterated": "fī Ikhtilāf al-Ḥayawān min Jihat al-Aʿḍāʾ al-Ẓāhirah",
+    "arabic": "في اختلاف الحيوان من جهة الأعضاء الظاهرة"
+  },
+  "ṭ.viii.II.2": {
+    "transliterated": "fī Ikhtilāf al-Ḥayawān min Jihat al-Aʿḍāʾ al-Bāṭinah",
+    "arabic": "في اختلاف الحيوان من جهة الأعضاء الباطنة"
+  },
+  "ṭ.viii.III": {
+    "transliterated": "al-Maqāla al-Thālithah",
+    "arabic": "المقالة الثالثة"
+  },
+  "ṭ.viii.III.1": {
+    "transliterated": "fī Tashrīḥ al-Aʿḍāʾ al-Bāṭinah",
+    "arabic": "في تشريح الأعضاء الباطنة"
+  },
+  "ṭ.viii.III.2": {
+    "transliterated": "fī al-Qurūn wa-l-ʿIẓām wa-l-Shaʿr wa-l-Rīsh",
+    "arabic": "في القرون والعظام والشعر والريش"
+  },
+  "ṭ.viii.III.3": {
+    "transliterated": "fī al-Damm wa-l-Laban wa-l-Munā",
+    "arabic": "في الدم واللبن والمنى"
+  },
+  "ṭ.viii.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah",
+    "arabic": "المقالة الرابعة"
+  },
+  "ṭ.viii.IV.1": {
+    "transliterated": "fī Tashrīḥ Ḥayawān min Ḥayawān al-Māʾ",
+    "arabic": "في تشريح حيوان من حيوان الماء"
+  },
+  "ṭ.viii.IV.2": {
+    "transliterated": "fī Ḥasan al-Ḥayawān wa-Ḥarakātih ilākh",
+    "arabic": "في حسن الحيوان وحركته ألخ"
+  },
+  "ṭ.viii.V": {
+    "transliterated": "al-Maqāla al-Khāmisah",
+    "arabic": "المقالة الخامسة"
+  },
+  "ṭ.viii.V.1": {
+    "transliterated": "fī Dhikr Baʿḍ Aḥwāl Safād al-Ḥayawān wa-Waḍʿih",
+    "arabic": "في ذكر بعض أحوال سفاد الحيوان ووضعه"
+  },
+  "ṭ.viii.V.2": {
+    "transliterated": "fī Mithl Dhālika wa-Nushīru ilā Ḥāl al-Zarʿ wa-l-Munā",
+    "arabic": "في مثل ذلك ونشير إلى حال الزرع والمنى"
+  },
+  "ṭ.viii.VI": {
+    "transliterated": "al-Maqāla al-Sādisah",
+    "arabic": "المقالة السادسة"
+  },
+  "ṭ.viii.VI.1": {
+    "transliterated": "fī Bayḍ al-Ṭayr wa-Tafrīkhuhā",
+    "arabic": "في بيض الطير وتفريخها"
+  },
+  "ṭ.viii.VI.2": {
+    "transliterated": "fī Safād al-Samak wa-Bayḍihā wa-Tawlīduhā",
+    "arabic": "في سفاد السمك وبيضها وتوليدها"
+  },
+  "ṭ.viii.VII": {
+    "transliterated": "al-Maqāla al-Sābiʿah",
+    "arabic": "المقالة السابعة"
+  },
+  "ṭ.viii.VII.1": {
+    "transliterated": "fī Ikhtilāf al-Ḥayawān bi-Ḥasab al-Maʾwā wa-l-Maṭʿam",
+    "arabic": "في اختلاف الحيوان بحسب المأوى والمطمعم"
+  },
+  "ṭ.viii.VII.2": {
+    "transliterated": "Maʿnā al-Faṣl Alladhī Taqaddama wa-Fīhi Ishārah ilā Amrāḍ al-Ḥayawān",
+    "arabic": "معنى الفصل الذي تقدم وفيه إشارة إلى أمراض الحيوان"
+  },
+  "ṭ.viii.VIII": {
+    "transliterated": "al-Maqāla al-Thāminah",
+    "arabic": "المقالة الثامنة"
+  },
+  "ṭ.viii.VIII.1": {
+    "transliterated": "fī Ikhtilāf al-Ḥayawānāt Ayḍan wa-Aktharuh fī al-Akhlāq",
+    "arabic": "في اختلاف الحيوانات أيضاً وأكثره في الأخلاق"
+  },
+  "ṭ.viii.VIII.2": {
+    "transliterated": "fī Qarīb min al-Maʿnā Alladhī Yashtamilu ʿalayhi al-Faṣl Alladhī Qablahu",
+    "arabic": "في قريب من المعنى الذي يشتمل عليه الفصل الذي قبله"
+  },
+  "ṭ.viii.VIII.3": {
+    "transliterated": "fī Mithl Dhālika wa-Nadhkuru Aḥwāl al-Naḥl wa-l-Zanābīr",
+    "arabic": "في مثل ذلك ونذكر أحوال النحل والزنابير"
+  },
+  "ṭ.viii.VIII.4": {
+    "transliterated": "fī Mithl Dhālika min Akhlāq al-Sibāʿ wa-Ḥayawān al-Māʾ wa-l-Ṭayr",
+    "arabic": "في مثل ذلك من أخلاق السباع وحيوان الماء والطير"
+  },
+  "ṭ.viii.IX": {
+    "transliterated": "al-Maqāla al-Tāsiʿah",
+    "arabic": "المقالة التاسعة"
+  },
+  "ṭ.viii.IX.1": {
+    "transliterated": "fī Ḥāl al-Idrāk wa-l-Munā wa-Dhikr al-Ikhtilāf fī Dhālika",
+    "arabic": "في حال الإدراك والمنى وذكر الاختلاف في ذلك"
+  },
+  "ṭ.viii.IX.2": {
+    "transliterated": "fī Iḥtijāj Jālīnūs ʿalā al-Faylasūf",
+    "arabic": "في احتجاج جالينوس على الفيلسوف"
+  },
+  "ṭ.viii.IX.3": {
+    "transliterated": "fī annahu Laysa li-l-Marʾah Munā",
+    "arabic": "في أنه ليس للمرأة منى"
+  },
+  "ṭ.viii.IX.4": {
+    "transliterated": "fī Kayfīyat Takawwun al-Aʿḍāʾ al-Raʾīsīyah min al-Munayyayn",
+    "arabic": "في كيفية تكون الأعضاء الرئيسية من المنيين"
+  },
+  "ṭ.viii.IX.5": {
+    "transliterated": "fī Tafṣīl Istiḥālāt Māddat al-Janīn ilā an Tatimm",
+    "arabic": "في تفصيل استحالات مادة الجنين إلى أن تتم"
+  },
+  "ṭ.viii.IX.6": {
+    "transliterated": "fī Aḥwāl al-Walad wa-l-Wilādah",
+    "arabic": "في أحوال الولد والولادة"
+  },
+  "ṭ.viii.X": {
+    "transliterated": "al-Maqāla al-ʿĀshirah",
+    "arabic": "المقالة العاشرة"
+  },
+  "ṭ.viii.X.1": {
+    "transliterated": "fī Aḥwāl al-Nisāʾ min Jihat al-ʿUluq wa-l-Isqāṭ",
+    "arabic": "في أحوال النساء من جهة العلوق والإسقاط"
+  },
+  "ṭ.viii.XI": {
+    "transliterated": "al-Maqāla al-Ḥādīya ʿAsharah",
+    "arabic": "المقالة الحادى عشرة"
+  },
+  "ṭ.viii.XI.1": {
+    "transliterated": "Faṣl Yudhkaru Fīhi Uṣūl Mutaqarrirah",
+    "arabic": "فصل يذكر فيه أصول متقررة"
+  },
+  "ṭ.viii.XII": {
+    "transliterated": "al-Maqāla al-Thāniyah ʿAsharah",
+    "arabic": "المقالة الثانية عشرة"
+  },
+  "ṭ.viii.XII.1": {
+    "transliterated": "fī Aṣnāf al-Tarkīb wa-l-Murakkabāt Allatī Minhā al-Badan",
+    "arabic": "في أصناف التركيب والمركبات التي منها البدن"
+  },
+  "ṭ.viii.XII.2": {
+    "transliterated": "fī al-Mizāj",
+    "arabic": "في المزاج"
+  },
+  "ṭ.viii.XII.3": {
+    "transliterated": "fī Mizāj al-Aʿḍāʾ",
+    "arabic": "في مزاج الأعضاء"
+  },
+  "ṭ.viii.XII.4": {
+    "transliterated": "fī Amzijat al-Asnān",
+    "arabic": "في أمزجة الأسنان"
+  },
+  "ṭ.viii.XII.5": {
+    "transliterated": "fī Istiḥālat al-Ghidhāʾ ilā al-Akhlāṭ",
+    "arabic": "في استحالة الغذاء إلى الأخلاط"
+  },
+  "ṭ.viii.XII.6": {
+    "transliterated": "fī Tafṣīl Aṣnāf al-Akhlāṭ",
+    "arabic": "في تفصيل أصناف الأخلاط"
+  },
+  "ṭ.viii.XII.7": {
+    "transliterated": "fī al-Ruṭūbāt wa-l-Amkhākh wa-l-Admighah",
+    "arabic": "في الرطوبات والأمخاخ والأدمغة"
+  },
+  "ṭ.viii.XII.8": {
+    "transliterated": "fī al-Dimāgh wa-Tashrīḥuhu wa-Nabāt al-Nukhāʿ",
+    "arabic": "في الدماغ وتشريحه ونبات النخاع"
+  },
+  "ṭ.viii.XII.9": {
+    "transliterated": "fī Manfaʿat al-ʿAṣab wa-Tashrīḥ al-Dimāgh Minhu",
+    "arabic": "في منفعة العصب وتشريح الدماغ منه"
+  },
+  "ṭ.viii.XII.10": {
+    "transliterated": "fī Tashrīḥ Sāʾir al-ʿAṣab wa-Huwa al-ʿAṣab al-Faqarī",
+    "arabic": "في تشريح سائر العصب وهو العصب الفقرى"
+  },
+  "ṭ.viii.XII.11": {
+    "transliterated": "fī al-ʿIẓām",
+    "arabic": "في العظام"
+  },
+  "ṭ.viii.XII.12": {
+    "transliterated": "fī al-Awṣāl al-Kullīyah li-l-ʿIẓām",
+    "arabic": "في الأوصال الكلية للعظام"
+  },
+  "ṭ.viii.XII.13": {
+    "transliterated": "fī Tashrīḥ Ālāt al-Baṣar wa-ʿAḍalihā",
+    "arabic": "في تشريح آلات البصر وعضلها"
+  },
+  "ṭ.viii.XII.14": {
+    "transliterated": "fī Ālat al-Samʿ wa-l-Shamm wa-l-Dhaws",
+    "arabic": "في آلة السمع والشم والذوق"
+  },
+  "ṭ.viii.XII.15": {
+    "transliterated": "fī Ḥarakāt Aʿḍāʾ al-Raʾs Baʿd al-ʿAynayn",
+    "arabic": "في حركات أعضاء الرأس بعد العينين"
+  },
+  "ṭ.viii.XIII": {
+    "transliterated": "al-Maqāla al-Thālithah ʿAsharah",
+    "arabic": "المقالة الثالثة عشرة"
+  },
+  "ṭ.viii.XIII.1": {
+    "transliterated": "fī Ālāt al-Ḥayawān al-Nāfiʿ min al-Asnān wa-l-Famm wa-l-Qurūn",
+    "arabic": "في آلات الحيوان النافع من الأسنان والفم والقرون"
+  },
+  "ṭ.viii.XIII.2": {
+    "transliterated": "fī Kalām fī al-Aḥshāʾ wa-Ibtidāʾ Tashrīḥ Aʿḍāʾ al-Nafas",
+    "arabic": "في كلام في الأحشاء وابتداء تشريح أعضاء النفس"
+  },
+  "ṭ.viii.XIII.3": {
+    "transliterated": "fī Tashrīḥ al-Qalb wa-mā Yanshaʾu ʿanhu min al-Sharāyīn",
+    "arabic": "في تشريح القلب وما ينشأ عنه من الشرايين"
+  },
+  "ṭ.viii.XIII.4": {
+    "transliterated": "fī Tashrīḥ Ṭarīq al-Ghidhāʾ wa-Huwa al-Marīʾ wa-l-Maʿidah wa-l-Amʿāʾ",
+    "arabic": "في تشريح طريق الغذاء وهو المرىء والمعدة والأمعاء"
+  },
+  "ṭ.viii.XIII.5": {
+    "transliterated": "Khāṣṣ fī al-Amʿāʾ",
+    "arabic": "خاص في الأمعاء"
+  },
+  "ṭ.viii.XIII.6": {
+    "transliterated": "fī Tashrīḥ al-Kabid wa-l-Bawwāb wa-l-Awridah",
+    "arabic": "في تشريح الكبد والبواب والأوردة"
+  },
+  "ṭ.viii.XIII.7": {
+    "transliterated": "fī al-Marārah wa-l-Mathānah",
+    "arabic": "في المرارة والمثانة"
+  },
+  "ṭ.viii.XIV": {
+    "transliterated": "al-Maqāla al-Rābiʿah ʿAsharah",
+    "arabic": "المقالة الرابعة عشرة"
+  },
+  "ṭ.viii.XIV.1": {
+    "transliterated": "fī al-Marārah wa-l-Kulyah wa-Aḥwāl Aḥshāʾ al-Mukharrazāt",
+    "arabic": "في المرارة والكلية وأحوال أحشاء المخرزات"
+  },
+  "ṭ.viii.XIV.2": {
+    "transliterated": "fī Tashrīḥ al-Mirfaq wa-l-Katf wa-l-Yadayn",
+    "arabic": "في تشريح المرفق والكتف واليدين"
+  },
+  "ṭ.viii.XIV.3": {
+    "transliterated": "fī al-Ṣulb wa-l-ʿUnuq",
+    "arabic": "في الصلب والعنق"
+  },
+  "ṭ.viii.XIV.4": {
+    "transliterated": "fī Tashrīḥ Faqarāt al-ʿUnuq wa-l-Ṣulb",
+    "arabic": "في تشريح فقرات العنق والصلب"
+  },
+  "ṭ.viii.XIV.5": {
+    "transliterated": "fī al-Aḍlāʿ",
+    "arabic": "في الأضلاع"
+  },
+  "ṭ.viii.XIV.6": {
+    "transliterated": "fī al-ʿAḍal al-Muḥarrikah",
+    "arabic": "في العضل المحركة"
+  },
+  "ṭ.viii.XIV.7": {
+    "transliterated": "fī al-Rijl wa-Tashrīḥuhā",
+    "arabic": "في الرجل وتشريحها"
+  },
+  "ṭ.viii.XIV.8": {
+    "transliterated": "fī Asbāb Ikhtilāf Aṭrāf al-Ḥayawān",
+    "arabic": "في أسباب اختلاف أطراف الحيوان"
+  },
+  "ṭ.viii.XIV.9": {
+    "transliterated": "fī Tashrīḥ al-Khadd wa-l-Shafah",
+    "arabic": "في تشريح الخد والشفة"
+  },
+  "ṭ.viii.XV": {
+    "transliterated": "al-Maqāla al-Khāmisah ʿAsharah",
+    "arabic": "المقالة الخامسة عشرة"
+  },
+  "ṭ.viii.XV.1": {
+    "transliterated": "fī Aḥwāl Tawallud al-Ḥayawān wa-Tawāludih wa-Tashrīḥ al-Dhakir wa-l-Raḥim",
+    "arabic": "في أحوال تولد الحيوان وتوالده وتشريح الذكر والرحم"
+  },
+  "ṭ.viii.XV.2": {
+    "transliterated": "fī Asbāb Aḥwāl Māddat al-Īlād",
+    "arabic": "في أسباب أحوال مادة الإيلاد"
+  },
+  "ṭ.viii.XV.3": {
+    "transliterated": "fī al-Munā wa-Damm al-Ṭamth",
+    "arabic": "في المنى ودم الطمث"
+  },
+  "ṭ.viii.XVI": {
+    "transliterated": "al-Maqāla al-Sādisah ʿAsharah",
+    "arabic": "المقالة السادسة عشرة"
+  },
+  "ṭ.viii.XVI.1": {
+    "transliterated": "fī Kayfīyat Tawallud al-Ḥayawān min al-Munā wa-l-Bayḍ",
+    "arabic": "في كيفية تولد الحيوان من المنى والبيض"
+  },
+  "ṭ.viii.XVI.2": {
+    "transliterated": "fī Furūq al-Aʿḍāʾ al-Mutashābihah",
+    "arabic": "في فروق الأعضاء المتشابهة"
+  },
+  "ṭ.viii.XVII": {
+    "transliterated": "al-Maqāla al-Sābiʿah ʿAsharah",
+    "arabic": "المقالة السابعة عشرة"
+  },
+  "ṭ.viii.XVII.1": {
+    "transliterated": "Faṣl fī ʿIlal Ḥāl Mā Yubayyiḍ",
+    "arabic": "فصل في علل حال ما يبيض"
+  },
+  "ṭ.viii.XVIII": {
+    "transliterated": "al-Maqāla al-Thāminah ʿAsharah",
+    "arabic": "المقالة الثامنة عشرة"
+  },
+  "ṭ.viii.XVIII.1": {
+    "transliterated": "Faṣl fī ʿIlal al-Idhkār wa-l-Ināth",
+    "arabic": "فصل في علل الإذكار والإيناث"
+  },
+  "ṭ.viii.XIX": {
+    "transliterated": "al-Maqāla al-Tāsiʿah ʿAsharah",
+    "arabic": "المقالة التاسعة عشرة"
+  },
+  "ṭ.viii.XIX.1": {
+    "transliterated": "Faṣl Fīhi Nutaf min Aḥwāl al-Insān",
+    "arabic": "فصل فيه نتف من أحوال الإنسان"
+  },
+    "r.": {
+    "transliterated": "al-Jumla al-Thālithah: al-ʿIlm al-Riyāḍī",
+    "arabic": "الجملة الثالثة: العلم الرياضي"
+  },
+  "r.i": {
+    "transliterated": "al-Fann al-Awwal: Uṣūl ʿIlm al-Handasah",
+    "arabic": "الفن الأول: أصول علم الهندسة"
+  },
+  "r.i.I": {
+    "transliterated": "al-Maqāla al-Ūlā: al-Nuqṭah Shayʾ mā lā Juzʾa lah",
+    "arabic": "المقالة الأولى: النقطة شيء ما لا جزء له"
+  },
+  "r.i.II": {
+    "transliterated": "al-Maqāla al-Thāniyah: al-Murabbaʿ",
+    "arabic": "المقالة الثانية: المربع"
+  },
+  "r.i.III": {
+    "transliterated": "al-Maqāla al-Thālithah: al-Dawāʾir al-Mutasāwiyah Aqṭāruhā",
+    "arabic": "المقالة الثالثة: الدوائر المتساوية أقطارها"
+  },
+  "r.i.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah: al-Shakl al-Māss bi-Aḍlāʿih Jamīʿ Zawāyā Shakl Fīhi Zawāyā Shakl Fīhi al-Jurm Miqdār Aṣghar min Miqdār Akbar",
+    "arabic": "المقالة الرابعة: الشكل الماس بأضلاعه جميع زوايا شكل فيه زوايا شكل فيه الجرم مقدار أصغر من مقدار أكبر"
+  },
+  "r.i.V": {
+    "transliterated": "al-Maqāla al-Khāmisah",
+    "arabic": "المقالة الخامسة"
+  },
+  "r.i.VI": {
+    "transliterated": "al-Maqāla al-Sādisah: al-Suṭūḥ al-Mutashābihah",
+    "arabic": "المقالة السادسة: السطوح المتشابهة"
+  },
+  "r.i.VII": {
+    "transliterated": "al-Maqāla al-Sābiʿah: al-Waḥdah mā Bihā Yuqāl li-Kull Shayʾ Innahu Wāḥid",
+    "arabic": "المقالة السابعة: الوحدة ما بها يقال لكل شي إنه واحد"
+  },
+  "r.i.VIII": {
+    "transliterated": "al-Maqāla al-Thāminah",
+    "arabic": "المقالة الثامنة"
+  },
+  "r.i.IX": {
+    "transliterated": "al-Maqāla al-Tāsiʿah",
+    "arabic": "المقالة التاسعة"
+  },
+  "r.i.X": {
+    "transliterated": "al-Maqāla al-ʿĀshirah: al-Maqādīr Allatī Miqdār Wāḥid bi-Qadarihā",
+    "arabic": "المقالة العاشرة: المقادير التي مقدار واحد بقدرها"
+  },
+  "r.i.XI": {
+    "transliterated": "al-Maqāla al-Ḥādīyah ʿAsharah: al-Shakl al-Mujassam",
+    "arabic": "المقالة الحادية عشرة: الشكل المجسم"
+  },
+  "r.i.XII": {
+    "transliterated": "al-Maqāla al-Thāniyah ʿAsharah",
+    "arabic": "المقالة الثانية عشرة"
+  },
+  "r.i.XIII": {
+    "transliterated": "al-Maqāla al-Thālithah ʿAsharah",
+    "arabic": "المقالة الثالثة عشرة"
+  },
+  "r.i.XIV": {
+    "transliterated": "al-Maqāla al-Rābiʿah ʿAsharah: Lā Nisqalāws",
+    "arabic": "المقالة الرابعة عشرة: لا نسقلاوس"
+  },
+  "r.i.XV": {
+    "transliterated": "al-Maqāla al-Khāmisah ʿAsharah: Lisqalāws",
+    "arabic": "المقالة الخامسة عشرة: لسقلاوس"
+  },
+  "r.ii": {
+    "transliterated": "al-Fann al-Thānī: Talkhīṣ Kitāb Baṭlamiyūs fī al-Taʿālīm (Kitāb al-Majisṭī)",
+    "arabic": "الفن الثاني: تلخيص كتاب بطليموس في التعاليم (كتاب المجسطى)"
+  },
+  "r.ii.Intro": {
+    "transliterated": "al-Muqaddimah",
+    "arabic": "المقدمة"
+  },
+  "r.ii.I": {
+    "transliterated": "al-Maqāla al-Ūlā: fī ʿIlm al-Hayʾah",
+    "arabic": "المقالة الأولى: في علم الهيئة"
+  },
+  "r.ii.I.1": {
+    "transliterated": "fī anna al-Samāʾ Kuriyyat al-Ḥarakati wa-al-Shakl",
+    "arabic": "في أن السماء كرية الحركة والشكل"
+  },
+  "r.ii.I.2": {
+    "transliterated": "fī anna al-Arḍ Kuriyyat ʿinda al-Ḥiss",
+    "arabic": "في أن الأرض كرية عند الحس"
+  },
+  "r.ii.I.3": {
+    "transliterated": "fī anna al-Arḍ Mustaqirrah fī al-Wasaṭ",
+    "arabic": "في أن الأرض مستقرة في الوسط"
+  },
+  "r.ii.I.4": {
+    "transliterated": "fī anna lā Miqdār li-l-Arḍ ʿinda al-Falak",
+    "arabic": "في أن لا مقدار للأرض عند الفلك"
+  },
+  "r.ii.I.5": {
+    "transliterated": "fī anna al-Arḍ Ghayr Mutaḥarrikah",
+    "arabic": "في أن الأرض غير متحركة"
+  },
+  "r.ii.I.6": {
+    "transliterated": "fī al-Qawl ʿalā anna li-l-Kull Ḥarakah min al-Mashriq ilā al-Maghrib",
+    "arabic": "في القول على أن للكل حركة من المشرق إلى المغرب"
+  },
+  "r.ii.I.7": {
+    "transliterated": "fī Maʿrifat Awṭār Ajzāʾ al-Dāʾirah",
+    "arabic": "في معرفة أوتار أجزاء الدائرة"
+  },
+  "r.ii.I.8": {
+    "transliterated": "fī Maʿrifat al-Mayl",
+    "arabic": "في معرفة الميل"
+  },
+  "r.ii.I.9": {
+    "transliterated": "fī Maʿrifat al-Juyūb",
+    "arabic": "في معرفة الجيوب"
+  },
+  "r.ii.I.10": {
+    "transliterated": "fī al-Maṭāliʿ Ḥaythu al-Kurah Muntaṣibah",
+    "arabic": "في المطالع حيث الكرة منتصبة"
+  },
+  "r.ii.II": {
+    "transliterated": "al-Maqāla al-Thāniyah: fī Waḍʿ al-Mukawwan min al-Arḍ",
+    "arabic": "المقالة الثانية: في وضع المكون من الأرض"
+  },
+  "r.ii.II.1": {
+    "transliterated": "fī Maʿrifat Saʿat al-Mashriq",
+    "arabic": "في معرفة سعة المشرق"
+  },
+  "r.ii.II.2": {
+    "transliterated": "fī al-Maqāyīs fī al-Inqilābayn wa-l-Iʿtidālayn",
+    "arabic": "في المقاييس في الانقلابين والاعتدالين"
+  },
+  "r.ii.II.3": {
+    "transliterated": "fī Khawāṣṣ al-Dawāʾir al-Muwāziyah li-Muʿaddil al-Nahār",
+    "arabic": "في خواص الدوائر الموازية لمعدل النهار"
+  },
+  "r.ii.II.4": {
+    "transliterated": "fī al-Maṭāliʿ bi-Ḥasab al-ʿUrūḍ",
+    "arabic": "في المطالع بحسب العروض"
+  },
+  "r.ii.II.5": {
+    "transliterated": "fī al-Ashyāʾ al-Juzʾīyah Allatī Tuʿlam min al-Maṭāliʿ",
+    "arabic": "في الأشياء الجزئية التى تعلم من المطالع"
+  },
+  "r.ii.II.6": {
+    "transliterated": "fī Maʿrifat al-Zawāyā Allatī Taḥduthu min Taqāṭuʿ Dāʾiratay al-Burūj wa-Niṣf al-Nahār",
+    "arabic": "في معرفة الزوايا التي تحدث من تقاطع دائرتى البروج ونصف النهار"
+  },
+  "r.ii.II.7": {
+    "transliterated": "fī Maʿrifat al-Zawāyā Allatī Taḥduthu min Taqāṭuʿ Dāʾiratay al-Burūj wa-l-Ufuq",
+    "arabic": "في معرفة الزوايا التي تحدث من تقاطع دائرتى البروج والأفق"
+  },
+  "r.ii.II.8": {
+    "transliterated": "fī Maʿrifat al-Zawāyā Allatī Taḥduthu min Taqāṭuʿ Dāʾiratay al-Burūj wa-l-Dāʾirah al-Mārrah bi-Quṭay al-Ufuq",
+    "arabic": "في معرفة الزوايا التي تحدث من تقاطع دائرتى البروج والدائرة المارة بقطى الأفق"
+  },
+  "r.ii.III": {
+    "transliterated": "al-Maqāla al-Thālithah: fī Miqdār Zamān al-Sanah",
+    "arabic": "المقالة الثالثة: في مقدار زمان السنة"
+  },
+  "r.ii.III.1": {
+    "transliterated": "fī al-Uṣūl Allatī Tūḍaʿ li-l-Ḥarakati al-Mustawiyah Allatī Tajrī ʿalā al-Istidārah",
+    "arabic": "في الأصول التي توضع للحركة المستوية التي تجرى على الاستدارة"
+  },
+  "r.ii.III.2": {
+    "transliterated": "Fīmā Yaẓhar li-l-Shams min Ikhtilāf al-Ḥarakah",
+    "arabic": "فيما يظهر للشمس من اختلاف الحركة"
+  },
+  "r.ii.III.3": {
+    "transliterated": "fī Maʿrifat al-Ikhtilāfāt al-Juzʾīyah",
+    "arabic": "في معرفة الاختلافات الجزئية"
+  },
+  "r.ii.III.4": {
+    "transliterated": "fī Ikhtilāf al-Ayyām bi-Layālihā",
+    "arabic": "في اختلاف الأيام بلياليها"
+  },
+  "r.ii.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah: fī al-Arṣād li-Ḥarakāt al-Qamar",
+    "arabic": "المقالة الرابعة: في الأرصاد لحركات القمر"
+  },
+  "r.ii.IV.1": {
+    "transliterated": "fī Maʿrifat Azmān Adwār al-Qamar",
+    "arabic": "في معرفة أزمان أدوار القمر"
+  },
+  "r.ii.IV.2": {
+    "transliterated": "fī Ḥarakāt al-Qamar al-Juzʾīyah al-Mustawiyah",
+    "arabic": "في حركات القمر الجزئية المستوية"
+  },
+  "r.ii.IV.3": {
+    "transliterated": "fī anna al-Ladhī Yalzam al-Qamar min al-Ikhtilāf Shayʾ Wāḥid",
+    "arabic": "في أن الذى يلزم القمر من الاختلاف شيء واحد"
+  },
+  "r.ii.IV.4": {
+    "transliterated": "fī Tabyīn Ikhtilāf al-Qamar al-Awwal al-Basīṭ",
+    "arabic": "في تبيين اختلاف القمر الأول البسيط"
+  },
+  "r.ii.IV.5": {
+    "transliterated": "fī Taṣḥīḥ Ḥarakāt al-Qamar al-Mustawiyah fī al-Ṭūl",
+    "arabic": "في تصحيح حركات القمر المستوية في الطول"
+  },
+  "r.ii.IV.6": {
+    "transliterated": "fī Ḥāṣil Ḥarakāt al-Qamar al-Mustawiyah",
+    "arabic": "في حاصل حركات القمر المستوية"
+  },
+  "r.ii.IV.7": {
+    "transliterated": "fī Taṣḥīḥ Majāzāt al-Qamar fī al-ʿAraḍ",
+    "arabic": "في تصحيح مجازات القمر في العرض"
+  },
+  "r.ii.V": {
+    "transliterated": "al-Maqāla al-Khāmisah",
+    "arabic": "المقالة الخامسة"
+  },
+  "r.ii.V.1": {
+    "transliterated": "fī Taḥqīq Aḥwāl al-Qamar fī Ṣifatih Ālah Tuqās Bihā al-Kawākib",
+    "arabic": "في تحقيق أحوال القمر في صفته آلة تقاس بها الكواكب"
+  },
+  "r.ii.V.2": {
+    "transliterated": "fī al-Aṣl alladhī Yuʿmal ʿalayhi fī Amr Ikhtilāf al-Qamar al-Muḍaʿʿaf",
+    "arabic": "في الأصل الذى يعمل عليه في أمر اختلاف القمر المضعيف"
+  },
+  "r.ii.V.3": {
+    "transliterated": "fī Maʿrifat al-Nāḥiyah Allatī Yuḥādhīhā Falak Tadwīr al-Qamar",
+    "arabic": "في معرفة الناحية التى يحاذيها فلك تدوير القمر"
+  },
+  "r.ii.V.4": {
+    "transliterated": "fī Maʿrifat Ikhtilāf al-Qamar al-Kāʾin ʿalā Ḥasab Buʿd min al-Shams",
+    "arabic": "في معرفة اختلاف القمر الكائن على حسب بعد من الشمس"
+  },
+  "r.ii.V.5": {
+    "transliterated": "fī Kayf Yuʿlam Masīr al-Qamar al-Khafī min Ḥarakātih al-Mustawiyah bi-Ṭarīq al-Khuṭūṭ",
+    "arabic": "في كيف يعلم مسير القمر الخفي من حركاته المستوية بطريق الخطوط"
+  },
+  "r.ii.V.6": {
+    "transliterated": "fī Maʿrifat ʿAmal Jadāwil li-Jamīʿ Ikhtilāf al-Qamar",
+    "arabic": "في معرفة عمل جداول لجميع اختلاف القمر"
+  },
+  "r.ii.V.7": {
+    "transliterated": "fī anna al-Ikhtilāf al-Ladhī min Qibal al-Falak al-Khārij ilākh",
+    "arabic": "في أن الاختلاف الذى من قبل الفلك الخارج ألخ"
+  },
+  "r.ii.V.8": {
+    "transliterated": "fī Ikhtilāf al-Manẓar al-Ladhī Yaʿriḍ",
+    "arabic": "في اختلاف المنظر الذي يعرض"
+  },
+  "r.ii.V.9": {
+    "transliterated": "fī Tabyīn Abʿād al-Qamar",
+    "arabic": "في تبيين أبعاد القمر"
+  },
+  "r.ii.V.10": {
+    "transliterated": "fī Maqādīr Aqṭār al-Shams wa-l-Qamar wa-l-Ẓill",
+    "arabic": "في مقادير أقطار الشمس والقمر والظل"
+  },
+  "r.ii.V.11": {
+    "transliterated": "fī Maʿrifat Buʿd al-Shams",
+    "arabic": "في معرفة بعد الشمس"
+  },
+  "r.ii.V.12": {
+    "transliterated": "fī Ikhtilāf al-Naẓar al-Juzʾīyah li-l-Shams wa-l-Qamar",
+    "arabic": "في اختلاف النظر الجزئية للشمس والقمر"
+  },
+  "r.ii.V.13": {
+    "transliterated": "fī Taʿdīl Ikhtilāf al-Manẓar wa-Tafṣīlih",
+    "arabic": "في تعديل اختلاف المنظر وتفصيله"
+  },
+  "r.ii.VI": {
+    "transliterated": "al-Maqāla al-Sādisah: fī Maʿrifat ʿAmal Jadāwil al-Ijtimāʿāt wa-l-Istiqbālāt",
+    "arabic": "المقالة السادسة: في معرفة عمل جداول الاجتماعات والاستقبالات"
+  },
+  "r.ii.VI.1": {
+    "transliterated": "fī Maʿrifat Ḥisāb al-Ijtimāʿāt wa-l-Istiqbālāt al-Wusṭā",
+    "arabic": "في معرفة حساب الاجتماعات والاستقبالات الوسطى"
+  },
+  "r.ii.VI.2": {
+    "transliterated": "fī Ḥudūd Kusūfāt al-Shams wa-l-Qamar",
+    "arabic": "في حدود كسوفات الشمس والقمر"
+  },
+  "r.ii.VI.3": {
+    "transliterated": "fī Abʿād mā bayn al-Shuhūr Allatī Qad Yakūnu fīhā al-Kusūfāt",
+    "arabic": "في أبعاد ما بين الشهور التي قد يكون فيها الكسوفات"
+  },
+  "r.ii.VI.4": {
+    "transliterated": "fī Ṣifat ʿAmal Jadāwil al-Kusūfāt",
+    "arabic": "في صفة عمل جداول الكسوفات"
+  },
+  "r.ii.VI.5": {
+    "transliterated": "fī Ḥisāb al-Kusūfāt al-Qamarīyah wa-Taʿdīlihā",
+    "arabic": "في حساب الكسوفات القمرية وتعديلها"
+  },
+  "r.ii.VI.6": {
+    "transliterated": "fī Ḥisāb al-Kusūfāt al-Shamsīyah wa-Taʿdīlihā",
+    "arabic": "في حساب الكسوفات الشمسية وتعديلها"
+  },
+  "r.ii.VI.7": {
+    "transliterated": "fī al-Jihāt Allatī Tuḥādhīhā al-Kusūfāt",
+    "arabic": "في الجهات التي تحاذيها الكسوفات"
+  },
+  "r.ii.VII": {
+    "transliterated": "al-Maqāla al-Sābiʿah: fī Jawāmiʿ Umūr al-Kawākib al-Thābitah",
+    "arabic": "المقالة السابعة: في جوامع أمور الكواكب الثابتة"
+  },
+  "r.ii.VIII": {
+    "transliterated": "al-Maqāla al-Thāminah",
+    "arabic": "المقالة الثامنة"
+  },
+  "r.ii.VIII.1": {
+    "transliterated": "fī Muqāranat al-Kawākib al-Thābitah li-l-Shams fī al-Ṭulūʿ ilākh",
+    "arabic": "في مقارنة الكواكب الثابتة للشمس في الطلوع ألخ"
+  },
+  "r.ii.VIII.2": {
+    "transliterated": "fī Ẓuhūr al-Kawākib al-Thābitah li-l-Ruʾyah wa-Ikhtifāʾihā",
+    "arabic": "في ظهور الكواكب الثابتة للرؤية واختفائها"
+  },
+  "r.ii.IX_X_XI": {
+    "transliterated": "al-Maqālāt al-Tāsiʿah wa-l-ʿĀshirah wa-l-Ḥādīyah ʿAsharah: fī Jawāmiʿ Umūr al-Kawākib al-Mutaḥayyarah",
+    "arabic": "المقالات التاسعة والعاشرة والحادية عشرة: في جوامع أمور الكواكب المتحيرة"
+  },
+  "r.ii.IX_X_XI.1": {
+    "transliterated": "fī al-Uṣūl Allatī Yuʿmal ʿalayhā fī al-Kawākib al-Khamsah",
+    "arabic": "في الأصول التي يعمل عليها في الكواكب الخمسة"
+  },
+  "r.ii.IX_X_XI.2": {
+    "transliterated": "fī ʿAwdāt Adwār al-Kawākib al-Khamsah",
+    "arabic": "في عودات أدوار الكواكب الخمسة"
+  },
+  "r.ii.IX_X_XI.3": {
+    "transliterated": "fī Amr al-Uṣūl Allatī Yuʿmal ʿalayhā fī al-Kawākib al-Khamsah",
+    "arabic": "في أمر الأصول التي يعمل عليها في الكواكب الخمسة"
+  },
+  "r.ii.IX_X_XI.4": {
+    "transliterated": "fī Aṣnāf al-Uṣūl",
+    "arabic": "في أصناف الأصول"
+  },
+  "r.ii.IX_X_XI.5": {
+    "transliterated": "fī Maʿrifat Abʿad al-Buʿd li-ʿUṭārid wa-l-Zuharah",
+    "arabic": "في معرفة أبعد البعد لعطارد والزهرة"
+  },
+  "r.ii.IX_X_XI.6": {
+    "transliterated": "fī anna ʿUṭārid Yakūnu ʿalā Aqrab Qurb fī al-Dawrah al-Wāḥidah Marratayn",
+    "arabic": "في أن عطارد يكون على أقرب قرب في الدورة الواحدة مرتين"
+  },
+  "r.ii.IX_X_XI.7": {
+    "transliterated": "fī Maʿrifat al-Buʿd al-Abʿad li-l-Zuharah",
+    "arabic": "في معرفة البعد الأبعد للزهرة"
+  },
+  "r.ii.IX_X_XI.8": {
+    "transliterated": "fī Maʿrifat Falak Tadwīr al-Zuharah",
+    "arabic": "في معرفة فلك تدوير الزهرة"
+  },
+  "r.ii.IX_X_XI.9": {
+    "transliterated": "fī Maʿrifat Buʿd Markaz al-Muʿaddil ʿan Markaz al-Burūj li-ʿUṭārid wa-l-Zuharah",
+    "arabic": "في معرفة بعد مركز المعدل عن مركز البروج لعطارد والزهرة"
+  },
+  "r.ii.IX_X_XI.10": {
+    "transliterated": "fī Maʿrifat Markaz al-Ḥāmil ʿan Markaz al-Muʿaddil li-ʿUṭārid",
+    "arabic": "في معرفة مركز الحامل عن مركز المعدل لعطارد"
+  },
+  "r.ii.IX_X_XI.11": {
+    "transliterated": "fī Taṣḥīḥ Ḥarakāt ʿUṭārid al-Dawrīyah",
+    "arabic": "في تصحيح حركات عطارد الدورية"
+  },
+  "r.ii.IX_X_XI.12": {
+    "transliterated": "fī Taṣḥīḥ Ḥarakāt al-Zuharah al-Dawrīyah",
+    "arabic": "في تصحيح حركات الزهرة الدورية"
+  },
+  "r.ii.IX_X_XI.13": {
+    "transliterated": "Fīmā Yuḥtāj ilā Taqdīmih fī Tabyīn Amr Sāʾir al-Kawākib",
+    "arabic": "فيما يحتاج إلى تقديمه في تبين أمر سائر الكواكب"
+  },
+  "r.ii.IX_X_XI.14": {
+    "transliterated": "fī Tabyīn al-Khurūj ʿan al-Markaz fī al-Kawākib al-Thalāthah",
+    "arabic": "في تبيين الخروج عن المركز في الكواكب الثلاثة"
+  },
+  "r.ii.IX_X_XI.15": {
+    "transliterated": "fī Maʿrifat Maqādīr Aflāk Tadāwīr al-Kawākib al-Thalāthah",
+    "arabic": "في معرفة مقادير أفلاك تداوير الكواكب الثلاثة"
+  },
+  "r.ii.IX_X_XI.16": {
+    "transliterated": "fī Taṣḥīḥ Ḥarakāt Hādhihi al-Kawākib al-Dawrabīyah",
+    "arabic": "في تصحيح حركات هذه الكواكب الدوربة"
+  },
+  "r.ii.IX_X_XI.17": {
+    "transliterated": "fī Maʿrifat al-Masīrāt al-Khafīyah min al-Ḥarakāt al-Dawrīyah",
+    "arabic": "في معرفة المسيرات الخفية من الحركات الدورية"
+  },
+  "r.ii.IX_X_XI.18": {
+    "transliterated": "fī ʿIlm Jadāwil al-Ikhtilāfāt",
+    "arabic": "في علم جداول الاختلافات"
+  },
+  "r.ii.IX_X_XI.19": {
+    "transliterated": "fī Ḥisāb Masīr al-Kawākib al-Khamsah fī al-Ṭūl",
+    "arabic": "في حساب مسير الكواكب الخمسة في الطول"
+  },
+  "r.ii.XII": {
+    "transliterated": "al-Maqāla al-Thāniyah ʿAsharah: Fīmā Yuḥtāj ilā Taqdīmih fī Maʿrifat Rujūʿ al-Khamsah",
+    "arabic": "المقالة الثانية عشرة: في ما يحتاج إلى تقديمه في معرفة رجوع الخمسة"
+  },
+  "r.ii.XII.1": {
+    "transliterated": "fī Maʿrifat Rujūʿāt al-Kawākib al-Khamsah",
+    "arabic": "في معرفة رجوعات الكواكب الخمسة"
+  },
+  "r.ii.XII.2": {
+    "transliterated": "fī Ṣifat ʿAmal Jadāwil li-Wuqūfāt Hādhihi al-Kawākib",
+    "arabic": "في صفة عمل جداول وقوفات هذه الكواكب"
+  },
+  "r.ii.XII.3": {
+    "transliterated": "fī Maʿrifat al-Abʿād al-ʿUẓmā min al-Shams li-l-Zuharah wa-ʿUṭārid",
+    "arabic": "في معرفة الأبعاد العظمى من الشمس للزهرة وعطارد"
+  },
+  "r.ii.XIII": {
+    "transliterated": "al-Maqāla al-Thālithah ʿAsharah: fī al-Uṣūl fī Mamarr al-Kawākib al-Khamsah fī al-ʿAraḍ",
+    "arabic": "المقالة الثالثة عشرة: في الأصول في ممر الكواكب الخمسة في العرض"
+  },
+  "r.ii.XIII.1": {
+    "transliterated": "fī Maʿrifat Maqādīr Hādhihi al-Muyūl wa-l-Inḥirāfāt",
+    "arabic": "في معرفة مقادير هذه الميول والانحرافات"
+  },
+  "r.ii.XIII.2": {
+    "transliterated": "fī Ṣifat ʿAmal Jadāwil li-l-Marāt al-Juzʾīyah fī al-ʿAraḍ",
+    "arabic": "في صفة عمل جداول للمرات الجزئية في العرض"
+  },
+  "r.ii.XIII.3": {
+    "transliterated": "fī Ḥisāb Tabāʿud al-Kawākib al-Khamsah fī al-ʿAraḍ",
+    "arabic": "في حساب تباعد الكواكب الخمسة في العرض"
+  },
+  "r.ii.XIII.4": {
+    "transliterated": "fī Ẓuhūr al-Kawākib al-Khamsah wa-Ikhtifāʾihā",
+    "arabic": "في ظهور الكواكب الخمسة واختفائها"
+  },
+  "r.ii.XIII.5": {
+    "transliterated": "fī anna mā Yurā min Khawāṣṣ Ẓuhūr al-Zuharah wa-ʿUṭārid ilākh",
+    "arabic": "في أن ما يرى من خواص ظهور الزهرة وعطارد ألخ"
+  },
+  "r.ii.XIII.6": {
+    "transliterated": "fī al-Maslak ilā Maʿrifat al-Abʿād al-Juzʾīyah ʿan al-Shams ʿinda Ẓuhūr ilākh",
+    "arabic": "في المسلك إلى معرفة الأبعاد الجزئية عن الشمس عند ظهور ألخ"
+  },
+  "r.ii.Added": {
+    "transliterated": "al-Maqāla al-Muḍāfah ilā mā fī al-Majisṭī",
+    "arabic": "المقالة المضافة إلى ما في المجسطى"
+  },
+  "r.iii": {
+    "transliterated": "al-Fann al-Thālith: fī al-Arithmāṭīqī (ʿIlm al-Ḥisāb)",
+    "arabic": "الفن الثالث: في الأريثماطيقى (علم الحساب)"
+  },
+  "r.iii.I": {
+    "transliterated": "al-Maqāla al-Ūlā: fī Khawāṣṣ al-Aʿdād",
+    "arabic": "المقالة الأولى: في خواص الأعداد"
+  },
+  "r.iii.II": {
+    "transliterated": "al-Maqāla al-Thāniyah",
+    "arabic": "المقالة الثانية"
+  },
+  "r.iii.III": {
+    "transliterated": "al-Maqāla al-Thālithah",
+    "arabic": "المقالة الثالثة"
+  },
+  "r.iii.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah",
+    "arabic": "المقالة الرابعة"
+  },
+  "r.iv": {
+    "transliterated": "al-Fann al-Rābiʿ: fī ʿIlm al-Mūsīqā",
+    "arabic": "الفن الرابع: في علم الموسيقى"
+  },
+  "r.iv.Intro": {
+    "transliterated": "al-Muqaddimah",
+    "arabic": "المقدمة"
+  },
+  "r.iv.I": {
+    "transliterated": "al-Maqāla al-Ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "r.iv.I.1": {
+    "transliterated": "fī al-Qawl ʿalā Māhīyat al-Mūsīqā",
+    "arabic": "في القول على ماهية الموسيقى"
+  },
+  "r.iv.I.2": {
+    "transliterated": "fī Maʿrifat al-Abʿād al-Muttafiqah wa-l-Mutanāfirah",
+    "arabic": "في معرفة الأبعاد المتفقة والمتنافرة"
+  },
+  "r.iv.I.3": {
+    "transliterated": "fī Maʿrifat Ajnās al-Ittifāqāt",
+    "arabic": "في معرفة أجناس الاتفاقات"
+  },
+  "r.iv.I.4": {
+    "transliterated": "wa-Ammā al-Abʿād al-Muttafiqah",
+    "arabic": "وأما الأبعاد المتفقة"
+  },
+  "r.iv.II": {
+    "transliterated": "al-Maqāla al-Thāniyah",
+    "arabic": "المقالة الثانية"
+  },
+  "r.iv.II.1": {
+    "transliterated": "fī Jamʿ al-Abʿād Baʿḍuhā ilā Baʿḍ",
+    "arabic": "في جمع الأبعاد بعضها إلى بعض"
+  },
+  "r.iv.II.2": {
+    "transliterated": "fī Taḍʿīf al-Abʿād wa-Tanṣīfihā",
+    "arabic": "في تضعيف الأبعاد وتنصيفها"
+  },
+  "r.iv.III": {
+    "transliterated": "al-Maqāla al-Thālithah",
+    "arabic": "المقالة الثالثة"
+  },
+  "r.iv.III.1": {
+    "transliterated": "fī ʿAdad al-Ajnās",
+    "arabic": "في عدد الأجناس"
+  },
+  "r.iv.III.2": {
+    "transliterated": "fī al-Qawl ʿalā al-Ajnās al-Qawīyah",
+    "arabic": "في القول على الأجناس القوية"
+  },
+  "r.iv.III.3": {
+    "transliterated": "fī al-Kalām ʿalā Ajnās al-Abʿād al-Layyinah",
+    "arabic": "في الكلام على أجناس الأبعاد اللينة"
+  },
+  "r.iv.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah: al-Jāmiʿah",
+    "arabic": "المقالة الرابعة: الجامعة"
+  },
+  "r.iv.IV.1": {
+    "transliterated": "fī al-Kalām ʿalā al-Intiqālāt",
+    "arabic": "في الكلام على الانتقالات"
+  },
+  "r.iv.V": {
+    "transliterated": "al-Maqāla al-Khāmisah: fī ʿIlm al-Īqāʿ",
+    "arabic": "المقالة الخامسة: في علم الإيقاع"
+  },
+  "r.iv.V.1": {
+    "transliterated": "fī al-Qawl ʿalā al-Nagham",
+    "arabic": "في القول على النغم"
+  },
+  "r.iv.V.2": {
+    "transliterated": "al-Īqāʿ bi-l-Baṣar Qad Yuḥākī bi-l-Lisān",
+    "arabic": "الإيقاع بالبصر قد يحاكي باللسان"
+  },
+  "r.iv.V.3": {
+    "transliterated": "fī ʿAdad Aṣnāf al-Mawṣūl wa-l-Mufaṣṣal",
+    "arabic": "في عدد أصناف الموصل والمفصل"
+  },
+  "r.iv.V.4": {
+    "transliterated": "fī al-Rubāʿīyāt",
+    "arabic": "في الرباعيات"
+  },
+  "r.iv.V.5": {
+    "transliterated": "fī al-Kalām ʿan al-Shiʿr wa-annahu Kalām Mawqiʿ aw Īqāʿī",
+    "arabic": "في الكلام عن الشعر وأنه كلام موقع أو إيقاعى"
+  },
+  "r.iv.VI": {
+    "transliterated": "al-Maqāla al-Sādisah: fī Taʾlīf al-Laḥn wa-l-Ālāt wa-Aḥwālihā",
+    "arabic": "المقالة السادسة: في تأليف اللحن والآلات وأحوالها"
+  },
+  "r.iv.VI.1": {
+    "transliterated": "fī al-Kalām ʿalā Ajnās al-Ālāt wa-ʿAdadihā",
+    "arabic": "في الكلام على أجناس الآلات وعددها"
+  },
+  "i.": {
+    "transliterated": "al-Jumla al-Rābiʿah: al-Ilāhīyāt",
+    "arabic": "الجملة الرابعة: الإلهيات"
+  },
+  "i.I": {
+    "transliterated": "al-Maqāla al-Ūlā",
+    "arabic": "المقالة الأولى"
+  },
+  "i.I.1": {
+    "transliterated": "fī Ibtidāʾ Ṭalab Mawḍūʿ al-Falsafa al-Ūlā li-Tubayyin Anīyatih fī al-ʿUlūm",
+    "arabic": "في ابتداء طلب موضوع الفلسفة الأولى لتبين أنيته في العلوم"
+  },
+  "i.I.2": {
+    "transliterated": "fī Taḥṣīl Mawḍūʿ Hādhā al-ʿIlm",
+    "arabic": "في تحصيل موضوع هذا العلم"
+  },
+  "i.I.3": {
+    "transliterated": "fī Manfaʿat Hādhā al-ʿIlm wa-Martabatih wa-Ismih",
+    "arabic": "في منفعة هذا العلم ومرتبته واسمه"
+  },
+  "i.I.4": {
+    "transliterated": "fī Jumlat mā Yutakallamu fīhi fī Hādhā al-ʿIlm",
+    "arabic": "في جملة ما يتكلم فيه في هذا العلم"
+  },
+  "i.I.5": {
+    "transliterated": "fī al-Dalāla ʿalā al-Mawjūd wa-al-Shayʾ wa-Aqsāmihimā al-Awwal",
+    "arabic": "في الدلالة على الموجود والشيء وأقسامهما الأول"
+  },
+  "i.I.6": {
+    "transliterated": "fī Ibtidāʾ al-Qawl al-Wājib al-Wujūd wa-Mumkin al-Wujūd ilākh",
+    "arabic": "في ابتداء القول الواجب الوجود وممكن الوجود الخ"
+  },
+  "i.I.7": {
+    "transliterated": "fī anna al-Wājib al-Wujūd Wāḥid",
+    "arabic": "في أن الواجب الوجود واحد"
+  },
+  "i.I.8": {
+    "transliterated": "fī Bayān al-Ḥaqq wa-al-Ṣidq wa-al-Dhabb ʿan Awwal al-Awāʾil fī al-Muqaddimāt al-Ḥaqqah",
+    "arabic": "في بيان الحق والصدق والذب عن أول الأوائل في المقدمات الحقة"
+  },
+  "i.II": {
+    "transliterated": "al-Maqāla al-Thāniyah",
+    "arabic": "المقالة الثانية"
+  },
+  "i.II.1": {
+    "transliterated": "fī Taʿrīf al-Jawhar wa-Aqsāmih",
+    "arabic": "في تعريف الجوهر وأقسامه"
+  },
+  "i.II.2": {
+    "transliterated": "fī Taḥqīq al-Jawhar al-Jismānī wa-mā Yatarkabu Minhu",
+    "arabic": "في تحقيق الجوهر الجسماني وما يتركب منه"
+  },
+  "i.II.3": {
+    "transliterated": "fī anna al-Māddah al-Jismānīyah lā Tataʿarrā ʿan al-Ṣūrah",
+    "arabic": "في أن المادة الجسمانية لا تتعرى عن الصورة"
+  },
+  "i.II.4": {
+    "transliterated": "fī Taqdīm al-Ṣūrah ʿalā al-Māddah fī Martabat al-Wujūd",
+    "arabic": "في تقديم الصورة على المادة في مرتبة الوجود"
+  },
+  "i.III": {
+    "transliterated": "al-Maqāla al-Thālithah",
+    "arabic": "المقالة الثالثة"
+  },
+  "i.III.1": {
+    "transliterated": "fī al-Ishārah ilā mā Yanbaghī an Yubḥath ʿanhu min Ḥāl al-Maqūlāt al-Tisʿ fī ʿAraḍīyatihā",
+    "arabic": "في الإشارة إلى ما ينبغي أن يبحث عنه من حال المقولات التسع في عرضيتها"
+  },
+  "i.III.2": {
+    "transliterated": "fī al-Kalām fī al-Wāḥid",
+    "arabic": "في الكلام في الواحد"
+  },
+  "i.III.3": {
+    "transliterated": "fī Taḥqīq al-Waḥdah wa-al-Kathrah",
+    "arabic": "في تحقيق الوحدة والكثرة"
+  },
+  "i.III.4": {
+    "transliterated": "fī anna al-Maqādīr Aʿrāḍ",
+    "arabic": "في أن المقادير أعراض"
+  },
+  "i.III.5": {
+    "transliterated": "fī Taḥqīq Māhīyat al-ʿAdad wa-Taḥdīd Anwāʿih wa-Bayān Awāʾilih",
+    "arabic": "في تحقيق ماهية العدد وتحديد أنواعه وبيان أوائله"
+  },
+  "i.III.6": {
+    "transliterated": "fī Taqābul al-Waḥdah wa-al-Kathrah",
+    "arabic": "في تقابل الوحدة والكثرة"
+  },
+  "i.III.7": {
+    "transliterated": "fī anna al-Kayfīyāt Aʿrāḍ",
+    "arabic": "في أن الكيفيات أعراض"
+  },
+  "i.III.8": {
+    "transliterated": "fī al-ʿIlm wa-annahu ʿAraḍ",
+    "arabic": "في العلم وأنه عرض"
+  },
+  "i.III.9": {
+    "transliterated": "fī al-Kayfīyāt Allatī fī al-Kammīyāt",
+    "arabic": "في الكيفيات التي في الكميات"
+  },
+  "i.III.10": {
+    "transliterated": "fī al-Muḍāf",
+    "arabic": "في المضاف"
+  },
+  "i.IV": {
+    "transliterated": "al-Maqāla al-Rābiʿah",
+    "arabic": "المقالة الرابعة"
+  },
+  "i.IV.1": {
+    "transliterated": "fī al-Mutaqaddim wa-al-Mutaʾakhkhir wa-fī al-Ḥudūth",
+    "arabic": "في المتقدم والمتأخر وفي الحدوث"
+  },
+  "i.IV.2": {
+    "transliterated": "fī al-Quwwah wa-al-Fiʿl wa-al-Qudrah wa-al-ʿAjz wa-Ithbāt al-Māddah li-Kull Mutakawwin",
+    "arabic": "في القوة والفعل والقدرة والعجز وإثبات المادة لكل متكون"
+  },
+  "i.IV.3": {
+    "transliterated": "fī al-Tāmm wa-al-Nāqiṣ wa-mā Fawq al-Tamām wa-fī al-Kull wa-fī al-Jamʿ",
+    "arabic": "في التام والناقص وما فوق التمام وفي الكل وفي الجمع"
+  },
+  "i.V": {
+    "transliterated": "al-Maqāla al-Khāmisah",
+    "arabic": "المقالة الخامسة"
+  },
+  "i.V.1": {
+    "transliterated": "fī al-Umūr al-ʿĀmmah wa-Kayfīyah Wujūdihā",
+    "arabic": "في الأمور العامة وكيفية وجودها"
+  },
+  "i.V.2": {
+    "transliterated": "fī Kayfīyah Kawn al-Kullīyah li-l-Ṭabāʾiʿ al-Kullīyah",
+    "arabic": "في كيفية كون الكلية للطبائع الكلية"
+  },
+  "i.V.3": {
+    "transliterated": "fī al-Faṣl bayna al-Jins wa-al-Māddah",
+    "arabic": "في الفصل بين الجنس والمادة"
+  },
+  "i.V.4": {
+    "transliterated": "fī Kayfīyah Dukhūl al-Maʿānī al-Khārijah ʿalā al-Jins fī Ṭabīʿat al-Jins",
+    "arabic": "في كيفية دخول المعانى الخارجة على الجنس في طبيعة الجنس"
+  },
+  "i.V.5": {
+    "transliterated": "fī al-Nawʿ",
+    "arabic": "في النوع"
+  },
+  "i.V.6": {
+    "transliterated": "fī Taʿrīf al-Faṣl wa-Taḥqīqih",
+    "arabic": "في تعريف الفصل وتحقيقه"
+  },
+  "i.V.7": {
+    "transliterated": "fī Taʿrīf Munāsabat al-Ḥadd wa-al-Maḥdūd",
+    "arabic": "في تعريف مناسبة الحد والمحدود"
+  },
+  "i.V.8": {
+    "transliterated": "fī al-Ḥadd",
+    "arabic": "في الحد"
+  },
+  "i.V.9": {
+    "transliterated": "fī Munāsabat al-Ḥadd wa-Ajzāʾih",
+    "arabic": "في مناسبة الحد وأجزائه"
+  },
+  "i.VI": {
+    "transliterated": "al-Maqāla al-Sādisah",
+    "arabic": "المقالة السادسة"
+  },
+  "i.VI.1": {
+    "transliterated": "fī Aqsām al-ʿIlal wa-Aḥwālihā",
+    "arabic": "في أقسام العلل وأحوالها"
+  },
+  "i.VI.2": {
+    "transliterated": "fī Ḥall mā Yatashakkaku bihi ʿalā mā Yadhhabu ilayhi Ahl anna al-Ḥaqq min Kull ʿIllah fa-innahā maʿa Maʿlūlihā wa-Taḥqīq al-Kalām fī al-ʿIllah al-Fāʿilīyah",
+    "arabic": "في حل ما يتشكك به على ما يذهب إليه أهل أن الحق من كل علة فهى مع معلولها وتحقيق الكلام في العلة الفاعلية"
+  },
+  "i.VI.3": {
+    "transliterated": "fī Munāsabat mā bayna al-ʿIlal al-Fāʿilīyah wa-Maʿlūlātihā",
+    "arabic": "في مناسبة ما بين العلل الفاعلية ومعلولاتها"
+  },
+  "i.VI.4": {
+    "transliterated": "fī al-ʿIlal al-Ukhar al-ʿUnṣurīyah wa-al-Ṣūrīyah wa-al-Ghāʾīyah",
+    "arabic": "في العلل الأخر العنصرية والصورية والغائية"
+  },
+  "i.VI.5": {
+    "transliterated": "fī Ithbāt al-Ghāʾīyah wa-Ḥall Shukūk Qīlat fī Ibṭālihā",
+    "arabic": "في إثبات الغائية وحل شكوك قيلت في إبطالها"
+  },
+  "i.VII": {
+    "transliterated": "al-Maqāla al-Sābiʿah",
+    "arabic": "المقالة السابعة"
+  },
+  "i.VII.1": {
+    "transliterated": "fī Lawāḥiq al-Waḥdah min al-Huwīyah wa-Aqsāmihā wa-Lawāḥiq al-Kathrah min al-Ghayr",
+    "arabic": "في لواحق الوحدة من الهوية وأقسامها ولواحق الكثرة من الغير"
+  },
+  "i.VII.2": {
+    "transliterated": "fī Ikhtiṣāṣ Madhāhib al-Qudamāʾ al-Aqdamīn fī al-Muthul wa-al-Taʿlīmāt",
+    "arabic": "في اختصاص مذاهب القدماء الأقدمين في المثل والتعلمات"
+  },
+  "i.VII.3": {
+    "transliterated": "fī Ibṭāl al-Qawl bi-al-Taʿlīmāt wa-al-Muthul",
+    "arabic": "في إبطال القول بالتعليمات والمثل"
+  },
+  "i.VIII": {
+    "transliterated": "al-Maqāla al-Thāminah: fī Maʿrifat al-Mabdaʾ al-Ūlā",
+    "arabic": "المقالة الثامنة: في معرفة المبدأ الأولى"
+  },
+  "i.VIII.1": {
+    "transliterated": "fī Tanāhī al-ʿIlal al-Fāʿilīyah wa-al-Qābilīyah",
+    "arabic": "في تناهى العلل الفاعلية والقابلية"
+  },
+  "i.VIII.2": {
+    "transliterated": "fī Shukūk Yalzam mā Qīla wa-Ḥalluhā",
+    "arabic": "في شكوك يلزم ما قيل وحلها"
+  },
+  "i.VIII.3": {
+    "transliterated": "fī Ibānat Tanāhī al-ʿIlal al-Ghāʾīyah wa-al-Ṣūrīyah wa-Ithbāt al-Mabdaʾ al-Awwal Muṭlaqan",
+    "arabic": "في إبانة تناهى العلل الغائية والصورية وإثبات المبدأ الأول مطلقاً"
+  },
+  "i.VIII.4": {
+    "transliterated": "fī al-Ṣifāt al-Ūlā li-l-Mabdaʾ al-Wājib al-Wujūd ka-annahu Taʾkīd wa-Takrār li-mā Salaf",
+    "arabic": "في الصفات الأولى للمبدأ الواجب الوجود كأنه تأكيد وتكرار لما سلف"
+  },
+  "i.VIII.5": {
+    "transliterated": "fī annahu Tāmm bal Fawq al-Tamām wa-Khayr wa-Mufīd Kull Shayʾ Baʿdahu wa-annahu Ḥaqq wa-annahu ʿAql Maḥḍ ilākh",
+    "arabic": "في أنه تام بل فوق التمام وخير ومفيد كل شيء بعده وأنه حق وأنه عقل محض إلخ"
+  },
+  "i.VIII.6": {
+    "transliterated": "fī Nisbat al-Maʿqūlāt ilayhi wa-fī Īḍāḥ anna Ṣifātih al-Ījābīyah wa-al-Salabīyah lā Tūjibu fī Dhātih Kathrah wa-annahu lahū al-Bahāʾ al-Aʿẓam wa-al-Majd al-Ghayr Mutanāhī wa-fī Tafṣīl Ḥāl al-Ladhdhah al-ʿAqlīyah",
+    "arabic": "في نسبة المعقولات إليه وفي إيضاح أن صفاته الإيجابية والسلبية لا توجب في ذاته كثرة وأن له البهاء الأعظم والمجد الغير المتناهي وفي تفصيل حال اللذة العقلية"
+  },
+  "i.IX": {
+    "transliterated": "al-Maqāla al-Tāsiʿah: fī Ṣudūr al-Ashyāʾ ʿan al-Tadbīr",
+    "arabic": "المقالة التاسعة: في صدور الأشياء عن التدبير"
+  },
+  "i.IX.1": {
+    "transliterated": "fī Ṣifat Fāʿilīyat al-Mabdaʾ al-Awwal",
+    "arabic": "في صفة فاعلية المبدأ الأول"
+  },
+  "i.IX.2": {
+    "transliterated": "fī anna al-Muḥarrik al-Qarīb li-l-Samāwīyāt lā Ṭabīʿah wa-lā ʿAql bal Nafs wa-l-Mabdaʾ al-Awwal ʿAql",
+    "arabic": "في أن المحرك القريب للسماويات لا طبيعة ولا عقل بل نفس والمبدأ الأول عقل"
+  },
+  "i.IX.3": {
+    "transliterated": "fī Kayfīyah Ṣudūr al-Afʿāl min al-Mabādiʾ al-ʿĀliyah",
+    "arabic": "في كيفية صدور الأفعال من المبادئ العالية"
+  },
+  "i.IX.4": {
+    "transliterated": "fī Tartīb al-ʿUqūl wa-l-Nufūs al-Samāwīyah wa-l-Ajrām al-ʿUlwīyah ʿan al-Mabdaʾ al-Awwal",
+    "arabic": "في ترتيب العقول والنفوس السماوية والأجرام العلوية عن المبدأ الأول"
+  },
+  "i.IX.5": {
+    "transliterated": "fī Ḥāl Takawwun al-Usṭuqusāt ʿan al-ʿIlal al-Awāʾil",
+    "arabic": "في حال تكون الأسطقسات عن العلل الأوائل"
+  },
+  "i.IX.6": {
+    "transliterated": "fī al-ʿInāyah wa-Kayf Dukhūl al-Sharr fī al-Qaḍāʾ al-Ilāhī",
+    "arabic": "في العناية وكيف دخول الشر في القضاء الإلهى"
+  },
+  "i.IX.7": {
+    "transliterated": "fī al-Maʿād",
+    "arabic": "في المعاد"
+  },
+  "i.X": {
+    "transliterated": "al-Maqāla al-ʿĀshirah",
+    "arabic": "المقالة العاشرة"
+  },
+  "i.X.1": {
+    "transliterated": "fī al-Mabdaʾ wa-l-Maʿād bi-Qawl Mujmal wa-fī al-Ilhāmāt wa-l-Manāmāt wa-fī al-Daʿawāt al-Mustajābah wa-l-ʿUqūbāt al-Samāwīyah wa-fī Aḥwāl al-Nubuwwah wa-fī Ḥāl Aḥkām al-Nujūm",
+    "arabic": "في المبدأ والمعاد بقول مجمل وفي الإلهامات والمنامات وفي الدعوات المستجابة والعقوبات السماوية وفي أحوال النبوة وفي حال أحكام النجوم"
+  },
+  "i.X.2": {
+    "transliterated": "fī Ithbāt al-Nubuwwah wa-Kayfīyah Daʿwat al-Nabī ilā Allāh Taʿālā",
+    "arabic": "في إثبات النبوة وكيفية دعوة الني إلى الله تعالى"
+  },
+  "i.X.3": {
+    "transliterated": "fī al-ʿIbādāt wa-Manfaʿatihā fī al-Dunyā wa-l-Ākhirah",
+    "arabic": "في العبادات ومنفعتها في الدنيا والآخرة"
+  },
+  "i.X.4": {
+    "transliterated": "fī ʿAqd al-Madīnah wa-ʿAqd al-Bayt wa-huwa al-Nikāḥ wa-l-Sunan al-Kullīyah fī Dhālika",
+    "arabic": "في عقد المدينة وعقد البيت وهو النكاح والسنن الكلية في ذلك"
+  },
+  "i.X.5": {
+    "transliterated": "fī al-Khalīfah wa-l-Imām wa-Wujūb Ṭāʿatihumā wa-l-Ishārah ilā al-Siyāsāt wa-l-Muʿāmalāt wa-l-Akhlāq",
+    "arabic": "في الخليفة والإمام ووجوب طاعتهما والإشارة إلى السياسات والمعاملات والأخلاق"
+  }
+}
